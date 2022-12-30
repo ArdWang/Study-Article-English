@@ -5,6 +5,18 @@ this is Study Article English
 
 ##### 2022 12/30
 
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 30 billions in 2020 from roughly 10 billions in 2018, while the proportion of incress total express witnessed dramatic a slow rise from approximately 50 billions less that 80 billions over the same period.
+
+What lies behind this situation convenience it? In the first place, it is generally accepted that its bring great benefit and huge convenience to our daily life, therefore, it is natural that it is widely popular with individuals in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majoirites of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to give rise to this.
+
+On the basis of the discussion above. It is my strong believe that phenomenon mirrored by the chart is bound to exist for some year to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+
 2015年 阅读理解 A 2
 
 第一段
@@ -56,6 +68,10 @@ insight 洞察力，领悟力
 
 他们写道，许多第一代学生“很难适应中产阶级的高等教育文化，学习‘游戏规则’，并利用大学资源”。当大学不谈论不同学生群体的阶级优势和劣势时，这就成为了一个更大的问题。由于美国高校很少承认社会阶层会影响学生的教育经历，许多第一代学生对自己为什么在奋斗缺乏洞察力，也不明白‘喜欢他们’的学生如何才能进步。”
 
+solvable 可解的
+
+
+A A C D C
 
 ##### 2022 12/29
 

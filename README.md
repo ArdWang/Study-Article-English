@@ -2,6 +2,138 @@
 this is Study Article English
 
 
+#### 考研英语单词
+
+1月1
+
+contribute v.(to) 捐助，捐献；投稿
+illiterate adj. 文盲的，未受教育的 n. 文盲，无知的人
+abstract vt. 抽取，提取； 使抽象化，抽象的 n. 摘要
+controversy n. 争论， 争吵
+acclaim vt, 向.. 欢呼，喝采
+fancy v. 想象，幻想， 爱好， adj. 奇特的；想象出来的
+scholar n. 学者；奖学金获得者
+submission n. 提交，呈交，屈服
+transmit v. 传输，播送，传递
+disruptive adj. 破坏性的，制造混乱的
+
+
+1月2
+
+scholar n. 学者； 奖学金获得者
+scholarly adj. 学术性的，学者风度的
+scholastic adj. 学术的
+scholarship n. 学问，学术，奖学金
+submission n. 提交，呈交，屈服，顺从
+submit v. 提交，呈交
+transmit v. 传输，播送，传递，传导，传染
+transmission n. 传输，播送，传递
+disruptive adj. 破坏性的，制造混乱的
+flattering adj. 奉承的，讨好的
+
+1月3日
+
+statistical adj. 统计学的
+ignore vt. 不顾，不理会，无视，忽视
+be ignored by 被...所忽略，为...所忽视
+ignorance n. 无知 愚昧，一无所知
+distinction n. 区别，差别，特点
+diffuse adj. 弥漫的，散开的 v. 扩散，传播，散布
+contradict vt. 反驳，提出论据反对，与...矛盾
+intellect n. 智力；理解力，知识分子
+intellectual adj. 智力的，理智的，聪明的
+intellectual enquiry 知识探索，知识探求
+
+
+##### 2023 1/3
+
+
+```java
+What is demonstrated in the chart illustrates clearly that some remarkable regard to change with China rural express and total express has taken place during the preiod between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 15 billions in 2018 from roughly 35 billions in 2020, while the proportion of total express incress witnessed a dramatic a slow rise from approximately 50 billions less that 80 billions over the same period.
+
+What lies behind this situation concerning it? In the first place. It is generally accepted that its bring great benefit and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more ponit I feel I should touch on. It seems that its fashion has taken potential to give rise to this.
+
+On basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+
+```
+
+第一段
+
+traditional   adj. 传统的
+lingua n. 舌 ，语言
+corporate adj. 公司的
+emotional adj. 感情的
+spinning adj. 旋转的，说过不停的
+parachuted v 跳伞，伞降，空投
+passion n. 激情，强烈的感情
+mission n. 使命
+strategy n. 策略；计策；行动计划
+
+
+哈佛商学院教授南希•科恩说，即使在传统的办公室里，“与20年前相比，美国企业的通用语也变得更加情绪化，也更加右脑化。” 她开始滔滔不绝地举例子。我们有目标，有策略，有目标，但我们没有谈到能量;我们没有谈论激情。”
+
+第二段
+
+oriented  v. 朝向
+coincidence n. 巧合，一致
+explicitly adv. 明确地
+conscious adj. 有意识的
+
+
+Koehn指出，这个新时代的企业词汇是非常“团队”为导向的，这不是巧合。” 我们不要忘记体育——在男性主导的美国企业界，体育仍然是一件大事。它不是明确的意识;而是我是教练，你们是我的团队，我们是一条船上的人。在不同的公司有很多ceo，但大多数人都认为自己是教练，这是他们的团队，他们想赢。”
+
+第三段
+
+infuse v. 注入
+allegiance n. 忠诚
+importation n. 进口
+terminology n. 术语
+historically adv. 历史上的
+associated adj. 有关联的
+non-profit 非营利的
+religios adj. 宗教信仰的
+terms 术语
+
+
+这些术语也意在给工作注入意义——正如另一位教授Rakesh Khurana指出的那样，增加人们对公司的忠诚度。库拉纳说:“我们引进了一些历史上只与非营利组织和宗教组织有关的术语，比如愿景、价值观、激情和目标。”
+
+
+第四段
+
+focus 集中
+fulfillment  满足感，成就感
+motivated adj. 有积极性的，充满热情的，有动机的
+increasingly adv. 越来越多地
+debates 辩论
+prompting n. 劝说 v. 促使，激励
+buzzword n. 流行语
+unplug vt. 拔掉...的电源插头
+life-hack 生活黑客
+bandwidth 带宽
+boundry 边界
+capacity 容量
+devote 献身
+
+
+
+
+这种对个人成就感的新关注有助于在日益激烈的工作与生活平衡辩论中保持员工的积极性。上世纪90年代的“妈妈大战”至今仍在继续，引发了关于为什么女性仍然不能拥有一切的争论，以及谢丽尔·桑德伯格(Sheryl Sandberg)的《向前一步》(Lean In)等书的出现，这本书的书名本身已经成为一个流行词。术语就像断开电源、离线、生活hack、带宽和容量等术语都是关于设置办公室和家庭之间的界限。但如果你的工作是你的“激情所在”，你就更有可能全身心地投入其中，即使这意味着回家吃晚饭，然后在孩子们上床睡觉后很长时间内还在工作。
+
+第五段
+
+irony 讽刺
+regular adj. 有规律的，普通的
+linguist n. 语言学家
+nonsense n. 胡说，废话
+fundamentally 从根本上
+figure out 弄清楚
+
+但这似乎是办公室用语的讽刺之处:每个人都取笑它，但经理们喜欢它，公司依赖它，普通人愿意接受它。正如一位语言学家曾经说过的那样:“你可以让人们在相信它的同时认为它是无稽之谈。”在一个根本不关心你的生活及其意义的工作场所，办公室用语可以帮助你弄清楚你是如何与你的工作联系起来的——以及你的工作是如何定义你是谁的。
+
+praises 赞扬
+
+A C D A D
 
 ##### 2022 12/30
 

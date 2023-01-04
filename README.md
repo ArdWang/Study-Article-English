@@ -44,6 +44,92 @@ intellect n. 智力；理解力，知识分子
 intellectual adj. 智力的，理智的，聪明的
 intellectual enquiry 知识探索，知识探求
 
+1月4日
+
+intellectual achievement 知识成就，智力成果
+intellectualize vt. 使...理智化，对...做理性探讨
+allowance n. 津贴，零花钱
+provision n. 预防，预备，供应，提供
+provide v. 预防，预备，提供，供给
+provide sb. with sth. 为某人提供某物
+provident adj. 有远见的，深谋远虑的
+provider n. 供应者，提供者，维持生计者
+travel provider 旅游供应商
+extraordinarily adv. 非常地，特别地，极其地
+
+
+##### 2023 1/4
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable regard to change with China rural express and total express has taken place during the period betweem 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 15 billions in 2018 from roughly 35 billions in 2020, while the proportion of total express incress witnessed dramatic a slow rise from approximately 50 billions less that 80 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that its bring great benefit and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority choosing this new mode. There if one more point I feel I should touch on. It seems that its fashon has the potential to give rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+Text 4
+
+第一段
+
+decent adj. 得体的，像样的，正派的，相当不错的
+pace 速度，步伐，移动
+
+许多人谈到劳工部6月份报告的28.8万个新工作岗位，以及失业率降至6.1%，这是一个好消息。他们是对的。目前看来，经济正在以体面的速度创造就业机会。要恢复充分就业，我们还有很长的路要走，但至少我们现在终于以更快的速度前进了。
+
+第二段
+
+overlook vt 忽略, 没有注意到，忽视，不予理会
+voluntarily 自愿地，主动地
+figure n. 图形
+
+然而，就业前景中还有一个重要部分被忽视了。自愿兼职工作的人数大幅增加。这个数字现在比一年前的水平高83万（4.4%）。
+
+第三段
+
+distinction 差别，区别，对待，优秀，杰出
+evidence 证据，证明
+
+在解释与奥巴马医改的联系之前，值得做一个重要的区分。许多从事兼职工作的人实际上想要全职工作。他们做兼职工作，因为这是他们所能得到的。非自愿兼职工作的增加是劳动力市场疲软的证据，这意味着许多人将很难维持生计。
+
+
+第四段
+
+recession 经济衰退，退后，撤回
+direction 方向，方面，趋势
+
+6月份非自愿兼职人数有所增加，但总体方向是下降的。非自愿兼职就业人数仍远高于经济衰退前，但比去年同期减少了64万人(7.9%)。
+
+第五段
+
+reference 参考
+classified 机密的
+
+
+
+我们知道自愿和非自愿兼职的区别，因为人们告诉我们。劳工部使用的这项调查询问人们在参考周内工作时间是否少于35小时。如果答案是“是”，他们被归类为兼职工作。调查然后询问他们在那一周工作少于35小时是因为他们想要少于全职工作还是因为他们别无选择。只有当他们告诉调查者自己选择每周工作少于35小时时，他们才会被归类为自愿兼职工作者。
+
+
+第六段
+
+relates 相关
+insurance 保险
+conditions 条件，状况
+
+自愿兼职的问题与奥巴马医改有关，因为其主要目的之一是让人们在就业之外获得保险。对许多人来说，尤其是那些有严重健康状况的人或有严重健康情况的家庭成员来说，在奥巴马医改之前，获得保险的唯一途径是通过提供健康保险的工作。
+
+第七段
+
+previously 先前的，以前的
+
+
+然而，奥巴马医改已经允许超过1200万人通过医疗补助或交易所获得保险。这些人以前可能觉得有必要找一份提供保险的全职工作，以便为自己和家人提供保险。有了奥巴马医改，就业和保险之间不再有联系
+
+neglected 被忽视
+
+B B D B C
 
 ##### 2023 1/3
 

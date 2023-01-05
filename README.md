@@ -58,6 +58,92 @@ travel provider 旅游供应商
 extraordinarily adv. 非常地，特别地，极其地
 
 
+1月5日
+
+be extraordinarily hard to get 极难获得的
+contempt n. 轻视，轻藐
+contemptible adj. 可轻视的
+contemptuous adj. 轻视的，藐视的
+ultimate adj. 最后的，最终的
+elaborate adj. 精心制作的，详细阐述的 v. 精心制作
+convey vt. 运送，搬运；表达，传达
+illustrate vt. 说明，阐明
+capable adj. 有能力的，有本能的
+be capable of 能够..., 有能力...
+
+##### 2023 1/5
+
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable regard to change with China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 35 billions in 2020 from roughly 15 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 50 billions less that 80 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that its bring great benefit and huge convenience to our daily life, therefore, it is natural that it is widely popular with individuals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more ponit I feel I should touch on. It seems that its fashion has the potential to give rise to this.
+
+On the basis of discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+
+```
+
+B 
+
+pave vt. 铺路
+overcome 克服，战胜
+moreover adv. 此外, 同时
+grieving v. 感到悲痛，伤心，使...伤心
+inopportune adj. 不合时宜的
+
+
+不幸的是，生活并不如意。我们正经历着悲伤的经历。此外，我们正在为各种各样的损失而悲伤:一段友谊，一段浪漫的关系或一所房子。困难时刻可能会在最不合时宜的时候把你拖垮，但你应该记住，它们不会永远持续下去。
+
+mourning  n. 悲痛，哀悼
+mature  v. 成熟 adj. 成熟的
+eventually adv. 最后, 终究, 终于
+
+当我们的哀悼结束后，我们继续前进，对生命有了更多的理解和尊重，变得更加坚强。此外，这些损失使我们成熟，最终使我们走向未来的成长和幸福的机会。我想分享这些我一路学到的古老真理。
+
+
+reaction n. 反应；回应
+barriers n. 障碍
+exaggerating v. 夸张，夸大，言过其实
+luxuriant adj. 茂盛的, 华丽的, 丰富的
+
+恐惧有益也有害。这种正常的人类反应通过发出危险信号并让我们做好应对危险的准备来保护我们。不幸的是，人们在夸大恐惧的帮助下制造了内心的障碍。我最喜欢的演员威尔·史密斯曾经说过:“恐惧并不真实。它是你所创造的思想的产物。不要误会我的意思。危险是真实存在的。但恐惧是一种选择。” 我完全同意恐惧只是自己丰富想象力的产物。
+
+present 目前的
+weigh v. 权衡，有...重
+poisoning n. 中毒，服毒，毒害 v. 毒死，毒害，下毒
+circumstances n. 条件，情况，环境
+alive adj. 活着的
+fortunate adj. 幸运的
+possibilities n. 可能性
+moment n. 时刻, 片刻
+midset n. 心态，观念模式，思维倾向
+
+如果你被问题包围，无法停止思考过去，试着把注意力集中在当下。我们中的许多人都被过去所拖累，或对未来感到焦虑。你可能对过去感到内疚，但你正在用你无法改变的事情和环境毒害你的现在。珍惜当下，记住你活着是多么幸运。享受周围世界的美丽，睁大眼睛，看到你面前的可能性。幸福不是未来的某个点，也不是过去的某个时刻，而是一种可以设计到现在的心态。
+
+pause v. 暂停
+apprectiate v. 欣赏, 赏识
+prefer v. 更喜欢, 喜欢...多于...
+
+有时候很容易感觉糟糕，因为你正在经历艰难的时期。你很容易被生活中的问题所困，以至于你忘记停下来欣赏你所拥有的东西。只有坚强的人才会微笑，珍惜生命，而不是哭泣和抱怨。
+
+isolated adj. 偏远的，孤零零的，孤独的，孤立的，单独的
+keep in mind 记住
+almost 几乎
+constant n. 常数, 常量
+companionship n. 陪伴，友谊
+
+无论你感到多么孤独，无论情况有多严重，你都应该记住，你并不孤单。试着记住，如果你正试图在生活中做出好的改变，几乎每个人都尊重你，并愿意帮助你，尤其是你最亲爱的人和最亲近的人。你可能有一圈朋友，他们总是给你带来快乐、帮助和陪伴。如果你没有朋友或亲戚，试着加入几个在线社区，那里满是愿意分享建议和鼓励的人。
+
+external adj. 外部的, 外面的
+objectivity n. 客观性；客观现实
+devalue v. 贬值，贬低，降低...的价值
+own v. 拥有
+
+今天，许多人发现很难相信自己的观点，并通过从外部来源获得客观性来寻求平衡。这样你就贬低了自己的观点，表明你没有能力管理自己的生活。当你在努力实现一些重要的事情时，你应该相信自己，并确保你的决定是最好的。你活在自己的皮肤里，思考自己的思想，有自己的价值观，做出自己的选择。
+
+
 ##### 2023 1/4
 
 ```java

@@ -71,6 +71,60 @@ illustrate vt. 说明，阐明
 capable adj. 有能力的，有本能的
 be capable of 能够..., 有能力...
 
+
+1月6日
+
+capability n. 能力，才能，性能，功能
+constituent n. 选民，成分，要素 adj. 构成的，组成的
+transparency n. 透明； 透明度；透明性
+manipulate vt. 操纵，操作，熟练地使用 巧妙的处理
+strike n. 罢工 v. 罢工； 打，击；给...以深刻印象
+strike sb. as... 给某人留下...的印象
+coalition n. 同盟，联盟；结合体
+yield n. 产量，收获量，收益 v. 出产，屈服
+psychiatry n. 精神病学，精神病疗法
+psychiatrist n. 精神科医生，精神病专家
+
+
+##### 2023 1/6
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable clearly regard to change with China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 35 billions in 2020 from roughly 15 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 50 billions less that 80 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that its bring great benefit and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to give rise to this.
+
+On the basis of discussion above. It is my strong that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reching to impact uponour daily life.
+
+```
+
+翻译
+
+familiar  adj. 熟悉的，常见的
+commute v. 通勤，经常往返，代偿
+twist v. 扭曲 使弯曲，扭转
+concentration n. 集中，专心，专注
+scenery n. 风景
+sorts 种类，类别，排序
+consequence n. 结果, 推论
+perceive vt. 认为，感知，察觉到
+
+
+考虑驾驶一条非常熟悉的路线。它可以是你上班的通勤，进城的旅行或回家的路上。不管是哪一种，你对每一个拐弯都了如指掌。在这种类型的旅行中，很容易在驾驶过程中失去注意力，并且很少注意路过的风景。结果是，你觉得旅行花费的时间比实际少。
+
+underestimate  v. 低估
+
+这就是熟路效应:人们往往会低估在熟悉的路线上行驶所需的时间。
+
+allocate 分配
+
+这种效应是由我们分配注意力的方式引起的。这种效应是由我们分配注意力的方式引起的。当我们沿着熟悉的路线行进时，因为我们不需要太集中注意力，时间似乎过得更快。之后，当我们回想起来，我们不太记得这段旅程，因为我们没有太注意它。所以我们假设它更短。
+
+flow 流
+afterward 之后
+
+
+
 ##### 2023 1/5
 
 

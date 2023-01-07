@@ -85,6 +85,32 @@ yield n. 产量，收获量，收益 v. 出产，屈服
 psychiatry n. 精神病学，精神病疗法
 psychiatrist n. 精神科医生，精神病专家
 
+1月7日
+
+coordinate v. 使成为同等 使并列 协调一致， adj. 同等重要，并列的
+coordination n. 同等，并列；协调一致
+coordinator n. 协调者，同等的人或物
+paralyse vt. 使瘫痪，使麻痹
+paralyse n. 麻痹；瘫痪状态
+paralysis by analysis 仅有分析而无行动
+saturate vt. 使充满，使饱和，侵透
+be saturated with 被...所饱和，充满着...
+immediate adj. 直接的；立刻的；马上的；目前的。当前的
+obtain immediate feedback 获取即时反馈
+
+##### 2023 1/7
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change withe regard to China rural express and total express change has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 650 millions in 2020 from rougly 200 millions in 2018, while the proportion of incress total express witnessed a dramatic a slow rise from apporximately 400 millions to less that 600 millions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly,this way can save a lot time and money for us, thus ,majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discusiion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+
 
 ##### 2023 1/6
 

@@ -98,6 +98,81 @@ be saturated with 被...所饱和，充满着...
 immediate adj. 直接的；立刻的；马上的；目前的。当前的
 obtain immediate feedback 获取即时反馈
 
+
+1月8日
+
+contribute v. 捐献，投稿
+contribution n. 贡献，投稿
+make contribution 做贡献
+illiterate adj. 文盲的，未受教育的 n. 文盲；无知的人
+abstract vt. 抽取，提取；使抽象化 adj. 抽象的
+controversial adj. 争论的，有争议的
+controversialist n. 争论者，好争论者
+acclaim  vt. 向...欢呼，为...喝彩
+fancy v/n 想象，幻想
+scholar n. 学者，奖学金获得者
+scholarly adj. 学术性的；学者风度
+scholastic adj. 学术的
+scholarship n. 学问，学术，奖学金
+submission n. 提交，呈交，使屈服，使顺从
+submit v. 提交，呈交
+transmit v. 传输， 播送， 传递
+transmission n. 传输，播送，传递
+disruptive adj. 破坏性的，制造混乱的
+flattering adj. 奉承的，讨好的
+statistical adj. 统计学的
+ignore vt. 不顾，不理会
+be ignored by 被...所忽略，为...所忽视
+ignorance n. 无知，愚昧，一无所知
+distinction n. 区别；差别；特点
+diffuse adj. 弥漫的；散开的
+contradict vt. 反驳。提出论据反对，与...矛盾
+intellect n. 智力， 理解力
+intellectual adj. 智力的；理智的；聪明的
+intellectual enquiry 知识探索，知识探求
+intellectual achievement 知识成就，智力成果
+intellectualize vt. 使...理智化，对...做理性探讨
+allowance n. 津贴，零花钱
+provision n. 预防，预备，提供，供给
+provide v. 预防，预备；提供，供给
+provide sb. with sth. 为某人提供某物
+provident adj. 有远见的，深思熟虑的
+provider n. 供应者，提供者，维持生计者
+travel provider 旅游供应商
+extraordinarily adv. 非常地，特别地，极其地
+be extraordinarily hard to 极难获得
+contempt n. 轻视的
+contemptible adj. 可轻视的
+contemptuous adj. 轻视的，藐视的
+ultimate adj. 最后的，最终的
+elaborate adj. 精心制作的
+convey vt. 运送，搬运，表达，传播
+illustrate vt. 说明 ，阐明
+capable adj. 有能力的，有本领的
+be capable of 能够..., 有能力...
+capability n. 能力，才能，性能，功能
+constituent n. 选民，成分，要素 adj. 构成的，组成的
+transparency n. 透明，透明度，透明性
+manipulate vt. 操纵，操作，使用，处理
+strike n. 罢工 v. 罢工，打，击，给...以深刻印象
+strike sb as... 给某人留下...的印象
+coalition n. 同盟，联盟，结合体
+yield n. 产量，收获量, 收益 v. 产生，屈服
+psychiatry n. 精神病学，精神病疗法
+psychiatrist n. 精神科医生，精神病专家
+coordinate v. 使成为同等，使并列，协调一致 adj.同等重要的
+coordination n. 同等，并列，协调一致
+coordinator n. 协调者，同等的人或物
+paralyse/paralyze vt. 使瘫痪。使丧失作用
+paralysis n. 麻痹，瘫痪状态
+paralysis by analysis 仅有分析而无行动
+saturate vt. 使充满，使饱和，沁透
+be saturated with 被...所饱和，充满着...
+immediate adj. 直接的，立刻的，马上的，目前的，当前的
+obtain immediate feedback 获得即时的反馈
+
+
+
 ##### 2023 1/7
 
 ```java

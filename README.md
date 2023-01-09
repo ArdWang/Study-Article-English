@@ -172,6 +172,72 @@ immediate adj. 直接的，立刻的，马上的，目前的，当前的
 obtain immediate feedback 获得即时的反馈
 
 
+1/9
+
+immediate adj. 直接的；立刻的，马上的，目前的
+obtain immediate feedback 获取即时反馈
+correlate v. 使互相关联，相关联的人
+correlation n. 相互关系，关联，相关性
+underestimate vt. 低估，对...估计不足 n. 低估
+contend vi. 竞争，争夺 vt. 坚持主张，声称
+oblige vt. 强制，使感激
+oblige sb to do sth. 破事某人做某事
+obligation n. 义务，职责，恩惠
+accompany vt. 陪伴，陪同，伴随
+
+
+##### 2023 1/9
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express change has teken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 650 millions in 2020 from roughly 200 millions in 2018, while the proportion of incress total express witnessed a dramatic a slow rise from approximately 400 millions to less that 600 millions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that its brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoubtedly,this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+Text 1
+
+essential   adj. 本质的，必不可少的 n. 必须品，要点
+introductory adj. 引导的，入门的，介绍的，序言的
+
+的确，高中的编码课对大学学习计算机科学并不重要。卡耐基梅隆大学计算机科学学院助理院长汤姆·科尔蒂纳（Tom Cortina）表示，没有经验的学生可以在几门入门课程后迎头赶上。
+
+exposure n. 面临，遭受；揭露，暴露
+beneficial adj. 有益的
+confusing 令人困惑
+hypotheses 假设
+processes 过程
+transform vt. 使改变
+bite-sized adj. 一口能吃下的；小块的，很少的，很短的
+chunks n. 厚块，厚片，大块
+
+
+然而，科尔蒂纳说，早期接触是有益的。当年幼的孩子学习计算机科学时，他们了解到计算机不仅仅是一串令人困惑、无穷无尽的字母和数字，而是一种构建应用程序、创作艺术品或测试假设的工具。对他们来说，改变自己的思维过程并不像年长的学生那么难。将问题分解成小块，并使用代码来解决它们变得很正常。科尔蒂纳说，让更多的孩子接受这种培训可以增加对该领域感兴趣的人数，并有助于填补就业缺口。
+
+
+brim 边缘, 盛满，满
+
+在上大学之前，学生们还可以学习一些关于编码的知识，因为在大学里，计算机科学入门课已经排得满满当当，这可能会把经验不足或意志坚定的学生赶走。
+
+bootcamps 训练营
+curriculum n. 课程，全部课程
+
+Flatiron School是人们付费学习编程的地方，它最初是为寻求职业转变的成年人而流行的众多编码训练营之一。高中学生上的是同样的课程，但“我们试图把课程安排到他们感兴趣的地方，”教师维多利亚·弗里德曼(Victoria Friedman)说。例如，学生们正在开发的一款应用程序可以根据你的情绪推荐电影。
+
+probably 可能
+drop out 退学
+
+Flatiron班的学生可能不会从高中辍学，建立下一个Facebook。编程语言的更替速度很快，所以当他们进入就业市场时，他们所学的“Ruby on Rails”语言甚至可能已经无关紧要了。但是他们学到的如何逻辑地思考问题和组织结果的技能适用于任何编码语言，北卡罗莱纳州的教育顾问Deborah Seehorn说。
+
+coax 哄劝，劝说
+persuade 劝说
+
+事实上，Flatiron的学生可能根本就不会进入IT行业。但培养未来的程序员大军并不是这些课程的唯一目的。这些孩子的未来都将被电脑包围——在他们的口袋里，在他们的办公室里，在他们的家里。他们越年轻就学会如何思考，如何哄机器产生他们想要的东西，他们越早就知道自己有能力做得越好。
+
+A A A C B
 
 ##### 2023 1/7
 

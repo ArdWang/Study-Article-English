@@ -181,10 +181,76 @@ correlation n. 相互关系，关联，相关性
 underestimate vt. 低估，对...估计不足 n. 低估
 contend vi. 竞争，争夺 vt. 坚持主张，声称
 oblige vt. 强制，使感激
-oblige sb to do sth. 破事某人做某事
+oblige sb to do sth. 迫事某人做某事
 obligation n. 义务，职责，恩惠
 accompany vt. 陪伴，陪同，伴随
 
+1/10
+
+
+##### 2023 1/10
+
+
+```java
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express change has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing total express witnessed a dramatic a slow rise from approximately 400 millions to less that 650 millions over the same period.
+
+What lies benhind this situation concerning it? In the first place, it is generally accepted that its bring great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+Text 2
+
+Biologists 生物学家
+estimate v. 估计
+as many as 多达
+prairie n 大草原，北美草原
+stretch 伸展
+occupying v. 占用，占领
+
+生物学家估计，多达200万只小草原鸡——一种生活在绵延的草原上的鸟类——曾经为美国中西部和西南部的灰色景观增添了红色。但如今仅存约22000只，约占该物种历史活动范围的16%。
+
+crash n. 崩溃，碰撞，撞车，相撞
+formally adv. 正式地，正规地
+desperate adj. 不顾一切的，拼命的，非常需要，绝望的
+agency n. 代理，机构，力量
+designate n. 命名，指定，选定，指派
+regulatory adj. 监管的
+status n. 地位，身份，情形
+crack down 打击，制裁
+confrontational 对抗的
+conservation n. 保护
+approaches 方法
+flexibility 灵活性
+particular adj. 特指的
+habitat n. 栖息地
+collaborations 合作
+western 西部的
+forge v. 形成。缔造。伪造。假冒
+
+这次事故是美国鱼类和野生动物管理局(USFWS)决定正式将这种鸟类列为受威胁物种的主要原因。美国鱼类和野生动物管理局局长丹尼尔·阿什说:“小山鸡处于绝望的境地。” 然而，一些环保人士对此感到失望。他们曾敦促该机构将这种鸟列为“濒危物种”，这一地位赋予联邦官员更大的监管权力，以打击威胁。但阿什和其他人认为，“受到威胁”的标签让联邦政府可以灵活地尝试新的、可能不那么对抗性的保护方法。他们特别的呼吁与经常对联邦行动感到不安的西方州政府以及控制草原鸡95%栖息地的私人土地所有者建立更密切的合作。
+
+prosecute v. 起诉
+unintentionally adv. 无意中
+restore 恢复
+Negotiated 已协商
+suitable adj. 合适的，时宜的，适当，适用
+compensate v. 补偿
+interim adj. 临时的，过渡的 n. 间歇
+annual average 年平均
+coalition n. 联合政府
+overall 全面的，综合的
+
+例如，根据该计划，该机构表示，只要他们签署了一项范围广泛的管理计划，以恢复草原鸡栖息地，就不会起诉无意中杀死、伤害或扰乱该鸟的土地所有者或企业。由美国鱼类和野生动物管理局和各州协商，该计划要求破坏栖息地的个人和企业将其作为其经营活动的一部分，向一项基金付款，以用两英亩新的合适栖息地来取代每一英亩被破坏的栖息地。该基金还将用于补偿预留栖息地的土地所有者。美国鱼类和野生动物管理局还设定了一个中期目标，即在未来10年内将草原鸡种群恢复到年均6.7万只。它还赋予了西部鱼类和野生动物机构协会(WAFWA)，一个州机构联盟，监督进展的工作。总的来说，这一想法是让“各州在管理物种方面保持主导地位”，阿什说。
+
+rhetoric 花言巧语
+block vt. 阻碍，赌塞
+extinction n. 灭绝
+
+并不是所有人都相信双赢的说辞。一些国会议员试图阻止该计划，至少有十几个行业团体、四个州和三个环境团体在联邦法院对该计划提出质疑。毫不奇怪，行业团体和各州普遍认为这太过分了；环保人士表示，这还不够。生物学家杰伊·利宁格说:“联邦政府正在把管理这种鸟的责任交给那些正在把它推向灭绝的行业。”
+
+A B D D D
 
 ##### 2023 1/9
 

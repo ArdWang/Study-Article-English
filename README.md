@@ -187,6 +187,65 @@ accompany vt. 陪伴，陪同，伴随
 
 1/10
 
+1/11
+
+
+
+##### 2023 1/11
+
+```java
+
+What is demonstrated in the chart clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 35 billions in 2020 from roughly 10 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from apporixmately 50 billions less that 80 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, It is generally accepted that its bring great benefit and huge convenience to our daily life, therefore, it is natural that it is widely popular with indivivdulas in mounting numbers. In the next place, udoubtedly,this way can save a lot of time and money for us,thus,majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching imapact uponour daily life.
+
+
+```
+
+Text 3
+
+cliché  陈词滥调
+
+现在大家都太忙了，这是一个陈词滥调。但有一个抱怨是特别悲哀:从来没有时间阅读。
+
+
+mournfully 悲哀地
+thornier  adj 棘手的，麻烦的，引起争议的，有刺的
+give up 放弃
+overwhelmingly 压倒性地
+inclined 倾向的
+interruption 中断
+merely 仅仅
+efficient 效率
+
+让这个问题更加棘手的是，通常的时间管理技巧似乎并不足够。网上到处都是找时间阅读的建议:“放弃电视”或“随身携带一本书”。但根据我的经验，用这些方法来腾出30分钟是行不通的。坐下来阅读，与工作相关的思想飞轮一直在旋转——否则你就会筋疲力尽，最不需要的就是一本有挑战性的书。小说家兼评论家蒂姆·帕克斯(Tim Parks)写道，现代人的思维“压倒性地倾向于交流……这不仅仅是一个人被打断了;那就是一个人实际上倾向于打断别人。深度阅读不仅需要时间，而且需要一种特殊的时间，这种时间不能仅仅通过变得效率来获得。
+
+maximised 最大化的
+instrumentally adv. 仪器地
+immersive 沉浸式的
+inefficiency 效率低下，效率低
+goallessness 无目标性
+contrast 对比，比较
+slot 狭槽
+fulfill 完成
+infinite adj. 极大的 n. 无限的事物
+conveyor 传送者
+belt n. 皮带 v. 猛击，狠打
+
+事实上，“变得更有效率”是问题的一部分。将时间视为一种可以最大化的资源，意味着你可以用工具来处理它，判断任何给定的时刻，只要它朝着某个目标前进，就认为它是值得花费的。相比之下，沉浸式阅读取决于愿意冒低效率、无目标、甚至浪费时间的风险。试着把它放在待办事项列表中，你只会管理以目标为中心的阅读——有时有用，但不是最令人满意的那种。加里·埃伯利(Gary Eberle)在他的《神圣的时间》(Sacred Time)一书中写道:“未来就像一条不可阻挡的、几乎无限长的传送带上的空瓶子一样向我们走来。随着这些不同大小的瓶子(天、小时、分钟)的流逝，我们感到一种填满它们的压力，因为如果它们没有被填满，我们就浪费了它们。”没有什么比沉浸在书中更糟糕的了。
+
+fuel 燃料 v. 给...提供燃料
+ritualistic adj. 仪式的，老套的
+notes 指出
+distraction n. 分数注意力
+temporarily 短时 adv. 暂时
+dropping 滴下
+
+那么什么是有效的呢?也许令人惊讶的是，安排有规律的阅读时间。你可能会认为这可能会助长效率思维模式，但事实上，埃伯利指出，这种仪式性行为有助于我们“走出时间的流动”，进入“灵魂时间”。你可以通过只阅读实体书或使用单一用途的电子阅读器来限制分心。“随身携带一本书”实际上也能奏效——只要你经常阅读，阅读就会成为默认状态，你会暂时从中浮出水面，处理业务，然后再放下。在一个真正美好的日子里，你不再觉得自己在“腾出时间阅读”，而是在阅读，为其他一切腾出时间。
+
+D B A D B
 
 ##### 2023 1/10
 

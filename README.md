@@ -189,7 +189,75 @@ accompany vt. 陪伴，陪同，伴随
 
 1/11
 
+1/12
 
+subsidize vt. 给...提供津贴，资助
+decision-making n. 决策
+implement n. 工具，器具 vt. 惯切，实施
+academy n. 学院，专科院校
+American Academy of Arts and Sciences AAAS 美国艺术与科学研究院
+accustom vt. 使习惯
+accustoms 海关
+sufficient adj. 足够的，充分的
+sufficiently adv. 足够地，充分地
+optimistic adj. 乐观的，乐观主义的
+acknowledge vt. 承认；告知收到（信件等）
+
+##### 2023 1/12
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 35 billions in 2020 from roughly 15 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 50 billions less that 80 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, It is generally accepted that brings it great benefit and huge convenience to our daily life, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us,thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come for this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+Text 4
+
+backdrop n. 背景，背景幕布
+drastic adj. 激烈的，极端的，猛烈的
+structure n. 结构，构造，建筑物
+
+一项最新民意调查发现，在经济和人口结构发生剧烈变化的背景下，美国年轻人正在绘制新的21世纪成功路线图。
+
+prize n. 奖，奖赏，奖品
+constitutes v. 是；被算作，组成
+strikingly adv. 惊人的，醒目的
+
+跨越几代人，美国人继续珍视许多成功生活的传统里程碑，包括结婚、生孩子、拥有房子，以及在60多岁时退休。但是，尽管年轻人和老年人对成就人生的终点线达成了一致，但他们提供了截然不同的实现途径。
+
+regularly adv. 有规律地
+favor n. 赞成，喜爱
+
+与老年人相比，仍处于起步阶段的年轻人更有可能将个人成就放在工作的首位，相信他们会通过定期更换工作来最大程度地提升自己的职业生涯，更倾向于提供更多公共服务和更快生活节奏的社区，同意夫妻在结婚或生育之前应该有经济保障，调查发现，为了确保孩子最好由两位在家外工作的父母照顾。
+
+aftermath n. 后果,创伤
+patterns 模式，方式
+searing v. 铭刻，给...留下极不愉快的感觉
+aspect 方面
+
+从职业到社区和家庭，这些对比表明，在严重的大衰退之后，那些刚刚开始生活的人正在确定优先事项和期望，这些优先事项和期待将越来越多地传播到美国生活的几乎所有方面，从消费者偏好到住房模式，再到政治。
+
+coverage n. 新闻报道;
+prospects n. 可能性，希望，前景
+affordable adj. 买得起的，价格合理的，负担得起的
+
+年轻人和老年人都集中在一个关键点上：这两个群体中绝大多数人都表示，他们认为现在的年轻人比前几代人更难开始生活。虽然年轻人比他们的长辈对今天开始工作的人的前景更加乐观，但这两个群体中的大多数人都认为，那些“人生刚刚起步”的人在取得高薪工作、组建家庭、管理债务和找到负担得起的住房等标志性成就方面，要比前几代人更艰难。
+
+climb 攀登
+suburbs 郊区
+mortgage 抵押贷款，按揭贷款
+happen 发现，出现，碰巧，恰好
+struck v. 撞，碰，打，adj.罢工，惊讶
+upper 上面的
+
+皮特·施耐德认为今天的攀登更艰难。来自芝加哥郊区的27岁汽车技师施耐德说，他大学毕业后很难找到工作。即使现在他工作稳定，他说：“我自己付不起每月的抵押贷款，所以我不得不把房间出租给别人来实现这一点。回首往事，他感到惊讶的是，他的父母可以为他们的孩子提供舒适的生活，即使他们在他年轻时都没有完成大学学业。我还是在一个中产阶级家庭长大，父母都没有大学学历。”施耐德说。“我认为人们再也无法做到这一点了。”
+
+
+A C D D C
 
 ##### 2023 1/11
 

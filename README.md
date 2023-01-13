@@ -5,7 +5,7 @@ this is Study Article English
 #### 考研英语单词
 
 1月1
-
+```
 contribute v.(to) 捐助，捐献；投稿
 illiterate adj. 文盲的，未受教育的 n. 文盲，无知的人
 abstract vt. 抽取，提取； 使抽象化，抽象的 n. 摘要
@@ -16,10 +16,10 @@ scholar n. 学者；奖学金获得者
 submission n. 提交，呈交，屈服
 transmit v. 传输，播送，传递
 disruptive adj. 破坏性的，制造混乱的
-
+```
 
 1月2
-
+```
 scholar n. 学者； 奖学金获得者
 scholarly adj. 学术性的，学者风度的
 scholastic adj. 学术的
@@ -30,9 +30,9 @@ transmit v. 传输，播送，传递，传导，传染
 transmission n. 传输，播送，传递
 disruptive adj. 破坏性的，制造混乱的
 flattering adj. 奉承的，讨好的
-
+```
 1月3日
-
+```
 statistical adj. 统计学的
 ignore vt. 不顾，不理会，无视，忽视
 be ignored by 被...所忽略，为...所忽视
@@ -43,9 +43,9 @@ contradict vt. 反驳，提出论据反对，与...矛盾
 intellect n. 智力；理解力，知识分子
 intellectual adj. 智力的，理智的，聪明的
 intellectual enquiry 知识探索，知识探求
-
+```
 1月4日
-
+```
 intellectual achievement 知识成就，智力成果
 intellectualize vt. 使...理智化，对...做理性探讨
 allowance n. 津贴，零花钱
@@ -56,10 +56,10 @@ provident adj. 有远见的，深谋远虑的
 provider n. 供应者，提供者，维持生计者
 travel provider 旅游供应商
 extraordinarily adv. 非常地，特别地，极其地
-
+```
 
 1月5日
-
+```
 be extraordinarily hard to get 极难获得的
 contempt n. 轻视，轻藐
 contemptible adj. 可轻视的
@@ -70,10 +70,10 @@ convey vt. 运送，搬运；表达，传达
 illustrate vt. 说明，阐明
 capable adj. 有能力的，有本能的
 be capable of 能够..., 有能力...
-
+```
 
 1月6日
-
+```
 capability n. 能力，才能，性能，功能
 constituent n. 选民，成分，要素 adj. 构成的，组成的
 transparency n. 透明； 透明度；透明性
@@ -84,9 +84,9 @@ coalition n. 同盟，联盟；结合体
 yield n. 产量，收获量，收益 v. 出产，屈服
 psychiatry n. 精神病学，精神病疗法
 psychiatrist n. 精神科医生，精神病专家
-
+```
 1月7日
-
+```
 coordinate v. 使成为同等 使并列 协调一致， adj. 同等重要，并列的
 coordination n. 同等，并列；协调一致
 coordinator n. 协调者，同等的人或物
@@ -97,10 +97,10 @@ saturate vt. 使充满，使饱和，侵透
 be saturated with 被...所饱和，充满着...
 immediate adj. 直接的；立刻的；马上的；目前的。当前的
 obtain immediate feedback 获取即时反馈
-
+```
 
 1月8日
-
+```
 contribute v. 捐献，投稿
 contribution n. 贡献，投稿
 make contribution 做贡献
@@ -170,10 +170,10 @@ saturate vt. 使充满，使饱和，沁透
 be saturated with 被...所饱和，充满着...
 immediate adj. 直接的，立刻的，马上的，目前的，当前的
 obtain immediate feedback 获得即时的反馈
-
+```
 
 1/9
-
+```
 immediate adj. 直接的；立刻的，马上的，目前的
 obtain immediate feedback 获取即时反馈
 correlate v. 使互相关联，相关联的人
@@ -184,13 +184,13 @@ oblige vt. 强制，使感激
 oblige sb to do sth. 迫事某人做某事
 obligation n. 义务，职责，恩惠
 accompany vt. 陪伴，陪同，伴随
-
+```
 1/10
 
 1/11
 
 1/12
-
+```
 subsidize vt. 给...提供津贴，资助
 decision-making n. 决策
 implement n. 工具，器具 vt. 惯切，实施
@@ -202,6 +202,96 @@ sufficient adj. 足够的，充分的
 sufficiently adv. 足够地，充分地
 optimistic adj. 乐观的，乐观主义的
 acknowledge vt. 承认；告知收到（信件等）
+```
+
+1/13
+
+```
+
+dedicate vt. 奉献，致力于
+be dedicated to 致力于，献身于，奉献给
+dedicated adj. 献身于；一心一意
+embrace vt. 拥抱，暴扣，包围
+coherent adj. 连惯的，一致的，条理清楚的
+coherence n. 一致性，连惯性，统一
+instinct n. 本能，直觉，天分
+deduce vt. 推断，演绎，推论
+magnificent adj. 壮丽的，宏伟的
+stereotype n. 固定模式，老套看法，刻板形象 vt. 使定型，使形成固定看法
+
+```
+
+##### 2023 1/13
+
+```
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regrad to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rurale express jumped up to amazing 35 billions in 2020 from roughly 15 billions in 2018, while the proportion of incress total express witnessed dramatic a slow rise from approximately 50 billions less that 80 billions over the same period.
+
+What lies behind the situation concerning it? In the first place. It is generally accepted that it brings geart benefit and huge convenience to our daily life, thereofre, it is natural that it is widely popular with individulas in monuting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+Text 5
+
+be silly 傻乎乎的
+Don't overthink it 不要想太多
+be easily pleased 容易高兴
+
+constantly 不断地
+pursuing v. 追求
+therapy n. 治疗，疗法
+instinctively adv. 本能地，凭直觉而自然地
+Instead 相反。代替，反而，却
+wellbeing 幸福，健康，安乐
+look after 照看，照顾
+effectively 有效地，实际上, 事实上
+
+作为成年人，我们似乎一直在追求幸福，结果往往好坏参半。然而，孩子们似乎把它归结为一门艺术，在很大程度上他们不需要自助书籍或治疗。相反，他们本能地照顾自己的健康，通常比我们成年人更有效。也许是时候从他们身上吸取一些教训了。
+
+dictate v. 命令，决定，支配 n. 命令，规定
+manageable 可管理的，可操纵的，可处理的
+in many ways 在许多方面
+suppressing 镇压，压制
+brushing v. 刷净，刷亮，刷平顺 n. 刷光，刷布
+dirt n. 污物，灰尘，泥土
+
+apprositely 几乎
+
+孩子伤心时会做什么？他哭了。他生气的时候？他喊道。害怕的?
+可能两者兼而有之。 随着我们的成长，我们学会控制自己的情绪，使其易于控制，而不是支配我们的行为，这在很多方面都是一件好事。但我们往往会把这个过程做得太过火，最终压抑情绪，尤其是负面情绪。这就像在地毯下刷污垢一样有效，甚至会让我们生病。我们需要做的是找到一种方式，适当地承认和表达我们的感受，然后像孩子一样继续前进。相反，每天为小事心存感激是改善幸福感的更好方式。
+
+stepdaughter 继女
+overjoyed 喜出望外，非常高兴
+silver 银
+bullet 子弹
+
+几年前的圣诞节，我最小的继女，当时9岁，在圣诞节时得到了一件超人T恤。它的价格不到五美元，但她欣喜若狂，无法停止谈论它。我们常常相信，一份新的工作、更大的房子或更好的汽车将是让我们最终满意的灵丹妙药，但现实是，这些东西对我们的幸福水平几乎没有持久的影响。
+
+indulge v. 沉淀，沉迷，满足
+stress 强调
+endorphins 安多芬
+infection n. 传染
+
+你有没有注意到孩子们笑得多厉害？如果我们成年人能沉迷于一点愚蠢和傻笑，我们就会减少体内的压力荷尔蒙，增加内啡肽等有益的荷尔蒙，改善心脏的血液流动，并有更大的机会抵抗感染。当然，所有这些都会对我们的幸福水平产生积极影响。
+
+mortgage 抵押贷款
+awful adj. 很坏的
+figuring out 弄清楚
+spree 狂欢
+so long as 只要
+
+作为一个成年人的问题是，有很多严肃的事情要处理——工作、抵押贷款支付、弄清楚晚餐要做什么。但作为成年人，我们也可以奢侈地控制自己的日记，及时安排时间享受我们喜欢的事情是很重要的。这些东西可能是社交的、运动的、有创意的或完全随机的（在客厅里跳舞，任何人都可以？）-只要它们是令人愉快的，而且不可能产生负面副作用，比如喝太多酒或在预算紧张的情况下疯狂消费，都没关系。
+
+backfire vi. 适得其反
+strive 奋斗，努力
+absence 缺席
+byprouct 副产品，意外收获
+the way they live 他们的生活方式
+
+说了以上所有这些，重要的是要补充一点，我们不应该为了快乐而太努力。科学家告诉我们，这可能适得其反，实际上会对我们的健康产生负面影响。据报道，正如中国哲学家庄子所说：“幸福就是不去追求幸福。” 在这方面，我们需要再次以我们的孩子为榜样，对他们来说，幸福不是目标，而是他们生活方式的自然副产品。
+
 
 ##### 2023 1/12
 

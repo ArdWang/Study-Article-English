@@ -1,6 +1,8 @@
 # Study-Article-English
 this is Study Article English
 
+1月26日开始学习
+
 
 #### 考研英语单词
 

@@ -6,6 +6,25 @@ this is Study Article English
 
 ###### 1月30日
 
+单词
+
+```
+
+gratitude n. 感谢，感恩
+scard adj. adj. 神圣的，宗教的
+arrest vt. 逮捕，阻止
+at the time of their arrest 在他们被捕之时
+arrestee n. 被逮捕者
+promising adj. 有希望的，有前途的
+advisory adj. 顾问的，提供咨询的 n. 公告，警告
+upset vt. 弄翻；颠覆 n. 推翻，混乱
+upsetting adj. 令人心烦意乱的，令人苦恼的
+flexible adj. 可弯曲的，灵活的
+
+
+
+```
+
 默写一篇大作文
 
 ```java

@@ -1,7 +1,32 @@
 # Study-Article-English
 this is Study Article English
 
-1月26日开始学习
+
+#### 重新学习英语
+
+##### 1月30日
+
+默写一篇大作文
+
+```java
+What is demonstrated in the chart illustrates clearly that some remarkable change with regrad to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rurale express jumped up to amazing 35 billions in 2020 from roughly 15 billions in 2018, while the proportion of incress total express witnessed dramatic a slow rise from approximately 50 billions less that 80 billions over the same period.
+
+What lies behind the situation concerning it? In the first place. It is generally accepted that it brings geart benefit and huge convenience to our daily life, thereofre, it is natural that it is widely popular with individulas in monuting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+翻译一遍文章
+
+```
+
+想象一下在一条非常熟悉的路线上开车。它可以是你上班的通勤，进城的旅行或回家的路上。不管是哪一种，你对每一个拐弯都了如指掌。在这样的旅行中，很容易在驾驶上失去注意力，很少注意经过的风景。结果是，你认为旅行所花费的时间比
+实际花费的时间要少。 
+这就是熟路效应:人们往往会低估在熟悉的路线上行驶所需的时间。 
+这种效应是由我们分配注意力的方式引起的。当我们沿着熟悉的路线行进时，因为我们不需要太集中注意力，时间似乎过得更快。之后，当我们回想起来，我们不太记得这段旅程，因为我们没有太注意它。所以我们假设它更短。
+
+```
 
 
 #### 考研英语单词

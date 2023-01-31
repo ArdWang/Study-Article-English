@@ -4,6 +4,90 @@ this is Study Article English
 
 #### 新年新的学习方式
 
+
+###### 1月31日
+
+默写一遍大作文
+
+```java
+
+What is demonstrated in the chart illustrates clealy that some remarkable change with ragrd to China rural express and total express has taken place during the period between 2018 and 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individuals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential given rise to this.
+
+On the basis of the discussion above, it is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+英语翻译 2017 阅读理解 1
+
+```
+
+set off 出发， 动身
+more than 超过，非常，极其
+inspired adj. 受到启发的，品质优秀的 v. 鼓舞，激励
+events 发生的事情，重要的事情，公开活动，社交场所
+
+```
+
+每周六上午9点，超过50000名跑步者出发，在当地公园周围跑5公里。跑跑现象始于十几位朋友，并在英国和国外引发了400场活动。活动是免费的，有数千名志愿者。跑步者从四岁到祖父母；他们的时间从安德鲁·巴德利的世界纪录13分48秒到1小时不等。
+
+```
+
+legacy 遗产，遗留
+pledged v. 使保证，抵押的, 保证给予，正式承诺
+couches 长沙发，长塌
+away from 远离，离开
+fitter n. 装配工， 修理工  adj. 健壮的, 健康的 合格的
+population n. 人口，人口数量
+run-up 前期，准备阶段，准备
+halved v. 减半, 把...对半分
+obesity n. (过度)肥胖
+retrospections 回顾
+
+```
+
+公园跑在伦敦奥运会“遗产”失败的地方取得了成功。十年前的周一，宣布第30届奥运会将在伦敦举行。规划文件承诺，奥运会的伟大遗产将是让一个国家的体育爱好者远离他们的沙发。人口将更健康、更健康，并产生更多的赢家。这还没有发生。更糟糕的是，这些数字现在正在加速下降。反对党声称，小学生每周至少做两小时的运动已经减少了近一半。成年人和儿童的肥胖率有所上升。官方继续回顾2012年伦敦奥运会未能“激励一代人”的原因。公园跑的成功的提供了答案。
+
+
+```
+
+competitor 竞争对手，参赛者，竞争者，对手
+ethos n. 风气，道德观
+anybody 任何人
+puff-out 喷出
+clapped 鼓掌，拍手
+shining 闪亮的
+elite 精英，出类拔萃的人，上层人士，adj. 杰出的，精英的
+bidders n. 出价者，投标者
+dual adj. 双重的，二重的 n. 对数，偶数
+intimidating  adj. 吓人的 v. 威胁
+```
+
+公园跑不是比赛，而是计时赛：你唯一的竞争对手是时钟。这种风气欢迎任何人。一个鼓足了气的第一次上场的球员被拍过罚球线，就像顶级天才的闪耀一样让人欢欣鼓舞。相比之下，奥运会申办者则希望让更多的人参与体育运动，培养更多的精英运动员。这两个目标是混淆的：对于新人来说，参加比赛对成功的压力令人望而生畏。
+
+
+```
+
+absurd 荒缪的，荒唐的
+concept 观念，概念
+associations 协会，社团，联盟，联合
+grassroots  草根，草根阶层，普通民众
+pave vt. 铺路
+provision 提供，供给
+presided 主持，担任，出席
+decline 减少，下降
+strategy 策略，计策，策划
+thrive 兴旺发达，繁荣，旺盛，茁壮成长
+instead of 而不是，代替，作为...的替换
+
+```
+
+事实上，国家参与社区体育协会这样一个基本上“草根”概念的规划有点荒谬。如果政府发挥作用，它应该真正参与提供公共物品，确保有场地和资金铺设网球和网球场，并鼓励在学校提供所有这些活动。但历届政府都在出售绿地，从地方政府那里榨取资金，并减少了对体育教育的关注。未来的政府需要做更多的工作，为体育运动的繁荣提供条件，而不是冗长而有价值的战略。或者至少不会让他们更糟。
+
+A   B  D/C  D  C/B(critical 批评的)
+
+
 ###### 1月30日
 
 单词

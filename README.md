@@ -5,6 +5,86 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+###### 2月1日
+
+默写一遍大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkbale change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed daramtic a slow rise approximately 5 billions less that 6 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, It is generally accepted that its bring greats and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above, it is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+英语翻译 2017 阅读理解 2
+
+```
+
+focus on 专注于，关注，聚焦于
+promote vt. 促进, 推动，促销
+maximal adj. 最大的
+engagement n. 订婚，约会，约定，预约，密切关系，雇佣
+disengage 脱离，解脱，松开
+routine 常规，正常顺序，无聊
+
+```
+
+由于如此关注孩子使用屏幕，家长很容易忘记自己使用屏幕。珍妮·拉德斯基(Jenny Radesky)在她对数字游戏的研究中说:“科技的设计是为了真正吸引你，而数字产品的存在是为了促进最大的参与度。这让人很难摆脱，并导致家庭日常生活中出现很多问题。”
+
+```
+
+exercise 运动，练习，习题，活动
+mealtimes 就餐时间，进餐时间
+verbal adj. 文字的，言语的，口头的 n. 口供
+interaction n. 相互作用，相互影响，交互作用
+tension n. 紧张，紧张的局势，矛盾，对立，拉伸 vt. 拉紧，绷紧
+while 虽然，在...期间，当...时候，与...同时
+
+```
+
+Radesky研究了在吃饭时使用手机和平板电脑的情况，给母子两人进行了食物测试。她发现，在测试中使用电子设备的母亲与孩子的语言互动减少了20%，非语言互动减少了39%。在另一次观察中，她发现手机成为家庭紧张的根源。父母会看着他们的电子邮件，而孩子们会兴奋地请求他们的关注。
+
+```
+
+infant n. 婴儿，幼儿；0-1岁的幼儿 adj. 供婴儿用的，初期的
+wire adj. 连线的，联网的，兴奋的，紧张不安的，迷醉的 v. 用导线给
+disconcerting 令人不安的，令人困惑的，令人尴尬的，使不安
+cite vt. 提及，引用 n. 引文
+devise 发明，设计，想出
+visual 视觉的，视力的
+asked 要求，请求，恳求，征求
+normal way 正常的方式
+expression 表情
+distress 忧虑，悲伤，痛苦
+exquisitely 精致地，敏锐地
+sensitive adj. 敏感的，体贴的 n. 敏感的人，有灵异能力的人
+
+```
+
+婴儿天生就会通过观察父母的脸来了解他们的世界，如果父母的脸是空白的、没有反应的——就像他们沉迷于电子设备时经常出现的那样——这可能会让孩子们非常不安。拉德斯基引用了发展心理学家埃德·特罗尼克在20世纪70年代设计的“静止脸实验”。在这个实验中，一位妈妈要求用正常的方式与孩子互动，然后用空白的表情，不给他们任何的视觉社交反馈。当她试图吸引母亲的注意力时，孩子变得越来越痛苦。拉德斯基说：“父母不必总是表现得很精致，但需要有一种平衡，父母需要对孩子表达情感需求的言语或非言语表达做出反应和敏感。”。
+
+```
+
+neglect 疏忽照顾
+oppressive adj. 压迫的，压制的，高压的，令人焦虑的
+particularly 尤其
+
+```
+
+另一方面，特洛尼克本人担心，对孩子使用屏幕的担忧源于一种“压迫性的意识形态，要求父母始终与孩子互动”：“这是基于一种有点幻想的、非常白人的、非常中产阶级的意识形态，它说如果你不能让孩子接触30000个单词，你就忽略了他们。”特罗尼克认为，仅仅因为孩子没有从屏幕上学习，并不意味着屏幕没有价值——尤其是如果它让父母有时间洗澡、做家务，或者只是让他们远离孩子休息一下。他说，父母可以从使用他们的设备与朋友交谈或获得一些工作中获益匪浅。这可以让他们感到更快乐，这让他们在剩下的时间里对孩子更有帮助。
+
+```
+
+constant 持续不变的，不断的
+
+```
+
+B   C/D D B/C A
+
+
 ###### 1月31日
 
 默写一遍大作文

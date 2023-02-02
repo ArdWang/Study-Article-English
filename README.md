@@ -5,9 +5,83 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+###### 2月2日
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise approximately 5 billions less that 6 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefit and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above, it is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour to our daily life.
+
+```
+
+英语阅读理解 3 
+
+```
+
+pressure n. 压力，挤压，压强 vt. 施加压力
+cause 原因，起因，理由，动机
+a gap year 休一年
+after all 毕竟，终究
+silly adj. 愚蠢的，不明事理的
+in the fall 在秋天，在秋季，堕落走马灯
+
+```
+
+如今，社会上普遍存在着要求立即上大学的压力，加上在一个快速发展的世界中人们对大学的期望越来越高，这往往会导致学生们完全忽视了休一年的可能性。毕竟，如果你认识的每个人都要在秋天上大学，那么呆一年似乎很傻，不是吗？在上学12年后，花一年时间做一些非学术性的事情并不自然。
+
+```
+
+condemn vi. 谴责，证明，有罪
+lucrative adj. 有利可图的，赚大钱的，获利多的
+perpetuated v. 使永久化，使持久化
+misconceptions n. 错误认识，误解
+pursuit 追求，寻找
+
+```
+
+尽管这可能是真的，但这并不是谴责休一年的充分理由。无论是在研究生院、医学院还是赚钱的职业生涯中，人们总是担心在社会上长期存在的“终点赛跑”中落后于其他人。尽管人们普遍存在误解，但休整一年并不会阻碍学术追求的成功。事实上，它可能会提高学术追求。
+
+```
+
+perform v. 表演, 执行
+ahead 向前的
+struggle with 与什么做斗争
+acclimation  n. 适应
+blunders n. 愚蠢的错误
+
+```
+
+来自美国和澳大利亚的研究表明，与不参加休整一年的学生相比，参加休整一年学习的学生在大学期间的准备和表现通常更好。休整一年并没有让学生退缩，而是通过为独立、新的责任和环境变化做准备来推动他们前进，而这些都是一年级学生最常遇到的问题。休整一年的经历可以减轻适应大学和被投入全新环境时的打击，使人们更容易专注于学术和活动，而不是适应错误。
+
+
+```
+
+inherent 固有的，内在的
+convince adj, 确信，坚信 v. 使确信，使相信
+majors 专业
+mandatory adj. 强制性的，n. 委托人
+curriculum n. 课程
+vast adj. 巨大的
+possibilities 可能，可能性
+credits 借款 存入金额，与金钱相关的，n. 信用卡
+figure n. 图形，v. 重要的部分，是...部分
+initially adv. 开始，最初
+prevent 防止，阻止，阻碍
+
+```
+
+如果你不相信花一年时间探索兴趣的内在价值，那么考虑一下它对未来学术选择的财务影响。根据国家教育统计中心的数据，近80%的大学生最终至少换了一次专业。这并不奇怪，因为考虑到高中的基本必修课程，学生们对大学里等待他们的巨大学术潜力缺乏了解。许多学生发现自己在大学申请表上列出了一个专业，但在上完大学课程后又转向了另一个专业。这不一定是件坏事，但根据学校的不同，在学习中切换太晚后补学分可能会很昂贵。例如，在波士顿学院，如果你从另一个系转到护理学校，你必须多完成一年。最初花一年时间来解决问题有助于防止压力，并在以后节省资金。
+
+A/c D C/a d a
+
 ###### 2月1日
 
-默写一遍大作文
+默写一遍yin大作文
 
 ```java
 

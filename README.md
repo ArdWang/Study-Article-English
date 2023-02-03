@@ -5,13 +5,134 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+###### 2月3日
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart llustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that its bring greats and benefit to our daily life, therefore it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour to our daily life.
+
+```
+
+英语阅读理解 4
+
+```
+
+wildfires 野火
+
+```
+
+火灾生态学和管理专家马克斯·莫里茨教授表示，尽管人们通常认为野火是西部各州的一个问题，但由于野火对联邦税收的影响，野火的日益频繁是一个全国性的问题。
+
+
+```
+
+percentage n. 百分率, 百分比
+effect n. 效应，影响，结果 vt. 使发生，实现，引起
+the first time 首次，第一次
+affect v. 影响，侵袭，使感染 n. 情感，偏差
+infrastructure n. （国家或机构的）基础设施，基础建设
+upkeep n. 保养
+federal funds 联邦基金，联邦基准利率
+fewer 较少的
+conservation vt. 保护
+
+```
+
+2015年，美国森林局首次将其55亿美元年度预算的一半以上用于救火，这一比例几乎是20年前的两倍。事实上，如今用于该机构其他工作的联邦资金减少了，如森林保护、水资源和文化资源管理以及影响所有美国人生活的基础设施维护。
+
+
+```
+
+construction n. 建设，施工，建筑
+fire-prone adj. 容易发生火灾的
+be lost to 不再属于...所有
+
+```
+
+另一个全国性的问题是，其他机构的公共资金是否正在火灾频发地区进行建设。正如莫里茨所说，有多少联邦资金用于建造可能被野火烧毁的房屋?
+
+```
+
+expenditure n. 支出，开支，费用，消费
+perspective 态度，观点，思考方法，客观判断力
+redirect vt. 重新使用
+magnifying glass 放大镜
+
+```
+
+“从公共支出的角度来看，这对整个国家来说已经是一个巨大的问题，”他说。我们需要用放大镜来观察。比如，“等一下，这行吗？”我们是否希望将这些资金转移到低风险地区？”
+
+```
+corresponding adj. 符合的，相应的，相关的 v. 相一致
+```
+
+研究人员表示，这种观点需要美国社会对火灾的看法发生相应变化。
+
+```
+
+conversation n. 对话，交谈
+inclusive adj. 包含全部费用，包含提及到的
+
+```
+
+首先，有关野火的对话需要更具包容性。在过去的十年中，人们关注的焦点一直是气候变化，温室气体导致的地球变暖是如何导致火灾恶化的。
+
+```
+
+equation n. 方程式，方程，等式，平等，等同看待
+rest 休息，安息，中止
+
+```
+莫里茨说，虽然气候是一个关键因素，但它不应以牺牲其余因素为代价。
+
+```
+
+landscape n. 景观，地形，地貌，主要特色
+interactions 相互影响，交互作用，交互感应
+simplified v. 使简化
+failing 如果没有，失败
+preception 看法
+
+```
+
+他说：“人类系统和我们赖以生存的土地是相互联系的，相互作用是双向的。”。他指出，如果没有认识到这一点，就会导致“对解决方案的看法过于简化”。我们对问题和解决方案的理解变得非常有限。”
+
+```
+
+necessity n. 必然性，必要，必然，需要，必需品，必须的事物，不可避免的情况
+unleashed v. 释放的, 发泄
+inevitable adj. 不可避免的，不能防止的
+presence 在场，出席，出现
+crucial adj. 关键的，至关重要的，关键性的
+
+```
+
+与此同时，科罗拉多大学的巴尔奇教授表示，人们继续将火灾视为一种需要完全控制的事件，只有在必要的情况下才可以释放。但她表示，承认火灾不可避免地存在于人类生活中，这是制定法律、政策和实践以使其尽可能安全的一种态度。
+
+```
+
+tease v. 挑逗。取笑，戏弄 n. 取笑，捉弄，爱戏弄某人
+tease out 套取，套出，巧妙获得，梳理
+
+```
+
+“我们已经脱离了与火的生活，”巴尔奇说。“理解、尝试和梳理当今人类与火的联系是非常重要的。”
+
+B C/d D/c D B
+
 ###### 2月2日
 
 默写一遍英语大作文
 
 ```java
 
-What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise approximately 5 billions less that 6 billions over the same period.
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise approximately 5 billions less that 8 billions over the same period.
 
 What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefit and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
 

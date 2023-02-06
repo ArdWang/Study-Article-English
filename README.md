@@ -1,8 +1,24 @@
 # Study-Article-English
+
 this is Study Article English
 
 
 #### 新年新的学习方式
+
+
+###### 2月6日
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express change has taken place during the period between 2018 to 2020. To be specific,the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witenessed a dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies hehind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There of one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
 
 
 ###### 2月3日
@@ -18,6 +34,90 @@ What lies behind this situation concerning it? In the first place, it is general
 On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour to our daily life.
 
 ```
+
+英语阅读理解 B
+
+```
+refrain vt 抑制，避免，克制，节制, 经常重复评价
+particularly adv. 尤其，特别
+defending 防御，保护，辩解，辩白
+
+```
+
+美国制造业的下滑是一种常见的论调，唐纳德·特朗普尤其如此。“我们不再生产任何东西了，”他在为自己的墨西哥制造服装品牌辩护时对福克斯新闻(Fox News)说。
+
+```
+
+significant 重要的，具有重大意义的
+further 进一步的
+shocks 冲击
+
+```
+
+毫无疑问，近几十年来，制造业受到了重大打击，进一步的贸易协议引发了新的冲击是否会打击制造业的问题。
+
+但也有一种不同的方式来看待数据。
+
+```
+
+grappling v. 扭打，搏斗，努力设法解决问题
+outsourcing 外包，外购
+
+```
+
+在全国范围内，工厂老板们正在努力应对一个新的挑战：他们可能不会拥有太多的工人，反而会拥有太少的工人。尽管存在贸易竞争和外包，美国制造业每年仍需要替换数以万计的婴儿潮一代退休人员。千禧一代可能对取代他们的位置没那么感兴趣。其他行业正在以类似或更好的薪酬招聘他们。
+
+```
+
+stiff adj. 不易弯曲的，硬的 adv. 非常，极其
+upward 向上的
+
+```
+对于工厂老板来说，这一切都加剧了工人的激烈竞争和工资的上涨压力。家族企业金刚狼弹簧公司(Wolverine Coil Spring)的总裁杰伊·邓威尔(Jay Dunwell)说:“他们更难找到，而且他们有工作机会。他们可能会进入劳动力市场，但他们已经被其他表现和制造业一样好的行业抢走了。”邓威尔先生已经开始把高中三年级的学生带到工厂，这样他们就可以接触到工厂的文化。
+
+```
+enrolled 加入，注册，登记
+
+```
+
+在他的父亲于1980年共同创立的变压器和焊接设备制造商RoMan Manufacturing，Robert Roth密切关注着他近200名工人的年龄。今年将有5人退休。罗斯先生有三名社区大学生参加了一个就业安置计划，起薪为每小时13美元，两年后涨到17美元。
+
+```
+
+flustered adj. 慌张的，激动不安的
+medical 医学的
+
+```
+在变压器厂内的一个工作台上，年轻的杰森·斯坦奎斯特（Jason Stenquist）对他试图组装的铜线圈和两名来访者的到来感到慌乱。这是他上任的第一周。当被问及自己的职业选择时，他说，在高中时，他考虑过医学院，后来才转向电气工程。“我喜欢使用工具。我喜欢创作。”他说。
+
+```
+
+hurdle 障碍，跨栏
+downturn n. 经济低迷的，下降
+blame 责备，指责
+
+```
+
+但为了争取这些年轻工人，制造商必须克服另一个主要障碍：父母，他们经历了大萧条以来最严重的美国经济衰退，告诉他们要避开工厂。千禧一代“记得他们的父亲和母亲都被解雇了。他们把这归咎于制造业衰退，”西密歇根商业发展机构the Right Place的首席执行官比吉特•克洛斯(Birgit Klohs)表示。
+
+```
+
+shortages 短缺
+
+```
+
+这些担忧并没有错：制造业的就业人数从1970年的1700万下降到2015年的1200万。当经济复苏开始时，工人短缺首先出现在高技能行业。现在，中等技能水平的人才短缺。
+
+蒙卡尔姆社区学院（Montcalm Community College）的商业教授罗伯·斯波尔（Rob Spohr）表示：“不需要技能的工作和需要大量技能的工作之间存在差距。”。“在麦当劳和其他不需要太多技能的地方，有足够的人可以胜任这些工作。这就是两者之间的差距，这就是问题所在。”
+
+```
+
+luring （lure）诱惑，吸引
+
+```
+大急流城社区学院的Julie Parks指出了吸引千禧一代进入制造业的另一个关键：工作/生活平衡。虽然他们的父母满足于长时间工作，但年轻人看重灵活性。“加班对这一代人没有吸引力。他们真的想过自己的生活，”她说。
+
+E A G B F
 
 英语阅读理解 4
 

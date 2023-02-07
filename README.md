@@ -6,6 +6,36 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+###### 2月7日
+
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2020, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings benefit and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that it fashion has the potential to given rise to this.
+
+On the basis of the discussion above, it is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+英语翻译
+
+```
+
+fashion n. 时尚
+personalities 性格，个性，魅力
+to be honest 坦白的来说
+promotion 推广，晋（jin）升
+
+```
+
+我的梦想一直是在时尚和出版之间的某个领域工作。中学毕业前两年，我参加了一门缝纫和设计课程，以为我会继续学习服装设计课程。然而，在那门课上，我意识到我在这方面不够优秀，无法在未来与其他有创造力的人竞争，所以我决定这不是我的正确道路。在申请大学之前，我告诉每个人我会学习新闻，因为写作是我最喜欢的活动之一，现在也是如此。但是，说实话，我这么说，因为我认为时尚和我在一起只是一个梦想——我知道，在时尚界，没有人能想象我！所以我决定找一些时尚相关的课程，包括写作。
+这是我注意到“时尚媒体与推广”课程的时候。
+
+
 ###### 2月6日
 
 默写一遍英语大作文
@@ -14,7 +44,7 @@ this is Study Article English
 
 What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express change has taken place during the period between 2018 to 2020. To be specific,the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witenessed a dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
 
-What lies hehind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There of one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There of one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
 
 On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
 

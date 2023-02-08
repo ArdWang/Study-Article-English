@@ -6,6 +6,124 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+##### 2月8日
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020.
+To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that it fashion has the potential to given rise to this.
+
+On the basis of the discussive above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it wil have a great and far-reaching impact uponour daily life.
+
+
+```
+
+
+2018年英语2真题
+
+Text 1
+
+```
+
+as though 好像，似乎
+justify 证明正当，证明...正确，对...作出解析
+almost 几乎，差不多
+
+```
+
+令人好奇的是，斯蒂芬·科齐亚克（Stephen Koziatek）几乎觉得他必须证明自己的努力是为了给学生一个更好的未来。
+
+
+```
+
+
+practical 实际的，真实的，客观存在的，切实可行的
+utterly adv. 完全地，全然，彻底的
+overwhelmed v. 压制，击败，征服
+busted v. 打破, 摔碎
+
+
+```
+
+Koziatek先生是开创性事业的一部分。他是新罕布什尔州一所高中的老师，那里的学习不是书本、考试和机械记忆，而是实用的。学生们应该能说出美国第13任总统的名字，但却被一个坏掉的自行车链条完全淹没，这种观点从什么时候开始成为公认的智慧?
+
+```
+
+discarded v. 抛弃，丢弃
+forcing v. 强迫
+stuck adj. 动不了， v. 将...刺入，插入
+gradffitied desk 涂鸦书桌
+
+
+```
+
+正如Koziatek所知，几乎每件事都有学习。强迫学生在一张被几代人丢弃的口香糖涂满涂鸦的桌子上学习几何，一定不会有什么收获。他们还可以通过组装自行车学习几何。
+
+
+```
+
+insidious n. 潜伏，阴险 adv. 潜伏地 adj. 阴险的
+a kind of 一种，某种，几分
+inferiority   n. 低等，劣势
+
+```
+
+但他也发现了一种潜在的偏见。用手工作几乎被视为自卑的标志。他说：职业教育大家庭中的学校“有那种刻板印象……这是为那些在学业上无法成功的孩子准备的。”
+
+
+```
+
+once 曾经
+evaporated v. 蒸发，挥发，消失
+largely 主要地，在很大程度上，多半
+security n. 安全，担保，保护措施
+principle 道德原则，规范，原则
+
+```
+
+一方面，这种观点是美国进化的逻辑产物。制造业不再是曾经的经济引擎。美国经济曾经为高中毕业生提供的工作保障已经基本消失。更多的教育是新的原则。我们希望我们的孩子拥有更多，这是理所当然的。
+
+```
+
+devaluting 使贬值，降低...的价值，贬低
+subtle 不易察觉的，不明显的，微妙的
+construction 建设，建筑，建造
+adequately 充分地
+
+```
+
+但是，一头扎进所有人的学士学位，再加上稍微贬值一点，都忽略了一点：这不是美国经济所需要的唯一东西。是的，学士学位打开了更多的大门。但即使是现在，该国54%的工作都是中等技能的工作，如建筑和高技能制造业。但只有44%的工人受过充分培训。
+
+```
+
+vanishing v. 突然消失，不复存在，消亡
+frustrated adj. 沮丧的 v. 挫败
+working class n. 工人阶层
+staring v. 注视，凝视
+in the face 面对
+equipped 装备，所具备的能力
+
+```
+
+换言之，当工人阶级将国家置于政治头上，对曾经定义美国的机会正在消失感到沮丧时，一个显而易见的解决方案正紧盯着我们。工人阶级的工作有差距，但最需要这些工作的工人没有能力做这些工作。Koziatek的曼彻斯特技术高中正试图填补这一空白。
+
+
+```
+wake-up call 敲响了警钟
+diversity n. 差异，不同点，多样化
+gifts 天赋，礼物，赠品
+
+```
+Koziatek的学校敲响了警钟。当教育变得一刀切时，就有可能忽视一个国家天赋的多样性。
+
+B D A C C
+
+
 ###### 2月7日
 
 
@@ -13,7 +131,7 @@ this is Study Article English
 
 ```java
 
-What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2020, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
 
 What lies behind this situation concerning it? In the first place, it is generally accepted that it brings benefit and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undoutedly, this way save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that it fashion has the potential to given rise to this.
 

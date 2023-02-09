@@ -6,6 +6,101 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+##### 2月9日
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart ilustrates clearly that some remarkable change with regrad to China rural express and total express has taken place during the period between 2018 to 2020. To be sepcific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed daramtic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies benhind this situaution concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individulas in mounting numbers. In the next place, undouetedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussive above, it is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour to daily life.
+
+
+```
+
+Text 2
+
+```
+
+while 尽管
+momentum 推动力，动力，动量
+
+```
+
+尽管化石燃料煤炭、石油和天然气仍然占世界能源供应的85%左右，但比以往任何时候都更清楚的是，未来属于风能和太阳能等可再生能源。向可再生能源的转变在世界各地都在加速:它们现在占到新上网能源的一半以上。
+
+```
+
+stem n. 根，茎 v. 阻止
+farsighted adj. 有远见的
+commitment 承诺
+increasingly 越来越多
+plumment 暴跌，速降
+
+```
+
+一些增长源于政府和有远见的企业为清洁能源提供资金的承诺。部分增长源于政府和有远见的企业为清洁能源提供资金的承诺。但越来越多的故事是关于可再生能源，尤其是风能和太阳能的价格暴跌。在过去八年中，太阳能电池板的成本下降了80%，风力涡轮机的成本下降近三分之一。
+
+```
+
+principal 最主要的，最重要的
+turbines 涡轮机，汽轮机
+the rest of the world 世界其它地区
+notbaly 尤其的，特别，尤其，极大程度，非常
+remarkable adj. 非凡的，显著的
+
+```
+
+在世界许多地区，可再生能源已经是主要的能源。例如，在苏格兰，风力涡轮机提供的电力足以为95%的家庭供电。在世界其他地区（尤其是中国和欧洲）领先的同时，美国也看到了一个显著的转变。据美国能源信息署报道，今年3月，风能和太阳能首次占美国发电量的10%以上。
+
+
+```
+
+fuels n. 燃料 v. 给...提供燃料
+dismissed v. 不考虑，去除，消除...
+giant 巨大，大公司
+
+```
+
+特朗普总统强调化石燃料尤其是煤炭是经济增长的途径。在最近在爱荷华州的一次演讲中，他驳斥了风力发电是一种不可靠的能源。但这一信息在爱荷华州的许多人看来并不好，那里的风力涡轮机遍布农田，提供了该州36%的发电量，而像微软这样的科技巨头正被清洁能源为其数据中心供电所吸引。
+
+```
+
+skeptic n. 怀凝论者， adj.怀凝
+around the clock 夜以继日地
+more likely 适当的，有希望的，很有可能的
+
+```
+
+“当风不吹或太阳不亮时会发生什么？”这一问题为怀疑论者提供了一个快速的答案。但是，电池存储容量的提高，使其能够保持电力全天候流动。
+
+```
+
+bet 打赌
+advance 前进，进步，进展
+picture n. 描绘 vt 设想，想起 / 局面
+rapidly 迅速地，迅速，高速
+
+rarity 珍品，稀有品
+
+```
+
+这一进步在一定程度上是由汽车制造商推动的，他们在电池驱动的电动汽车上下了很大的赌注。尽管现在电动汽车在公路上仍然很少见，但这一巨额投资可能会在未来几年迅速改变局面。
+
+
+```
+spike 刺探，用尖物刺入，阻止
+
+```
+
+虽然还有很长的路要走，但可再生能源的趋势线正在飙升。能源的变化速度似乎正在加快，也许正是时候对减缓气候变化产生有意义的影响。在全球思想转变的时代，华盛顿在推广替代能源方面所做的或不做的可能越来越没有意义。
+
+
+C A C/A C B/C
+
 ##### 2月8日
 
 默写一遍英语大作文
@@ -22,6 +117,9 @@ On the basis of the discussive above. It is my strong believe that this phenomen
 
 
 ```
+
+
+
 
 
 2018年英语2真题

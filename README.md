@@ -6,6 +6,82 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+##### 2月10日
+
+默写一遍英语大作文
+
+```
+
+What is demostrated in the chart illustrates clearly that some remarkable change with regrad to 
+China rurale express and total express has taken place during the period between 2018 to 2020.
+To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 millions in 2018, while the proportion of total express incress witnessed dramamtic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individuals in mounting numbers. In the next place, undoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this. 
+
+On the basis of the discussive above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+
+Text3 
+
+```
+
+astonish vt. 震惊，使十分惊讶
+at all 全然，根本，究竟
+intricate n. 密谋，阴谋
+```
+亚马逊刚刚宣布以135亿美元收购高端食品连锁店全食超市（Whole Foods），数字经济巨头的力量和野心令人震惊。但两年前，Facebook为收购WhatsApp消息服务支付了更高的费用，该服务根本没有任何实体产品。WhatsApp为Facebook提供的是一个复杂而精细的用户友谊和社交生活网络。
+
+```
+
+as soon as 一，...就...
+commission n. 委员会 vt. 正式委托
+enormously 极大地，非常，极其
+reveal 揭示，显示，透露
+plotting v. 密谋，暗中策划
+
+
+```
+
+脸书当时向欧盟委员会承诺，不会将电话号码与脸书身份联系起来，但几乎在交易完成后就违背了承诺。即使不知道这些信息里有什么，但知道是谁发送的、发送给了谁，仍然具有巨大的启示意义。哪个政治记者、哪个政党的党鞭不想知道特蕾莎·梅(Theresa May)的敌人目前正在策划的WhatsApp群的构成? 对亚马逊来说，全食超市的价值可能不在于它拥有的460家门店，而在于哪些顾客买了什么。
+
+```
+
+imbalances 不平衡，失衡
+clumsy 笨拙的，不灵巧的
+remedied 补救，改正，纠正
+vanish 消失，使不见
+by the time 等到，到...的时候
+marktetplace 市场，集市
+conceptual 概念的，观念的
+interpreted 解析，说明，把...理解为
+dominate 主导，支配
+virtual 事实上的，很接近的。几乎...的，实际上的
+
+```
+
+竞争法似乎是解决这些权力失衡的唯一途径。但它很笨拙。首先，与数字经济的变化速度相比，它非常缓慢。当一个问题得到解决和补救时，它可能已经在市场上消失，取而代之的是新的权力滥用。但还有一个更深层次的概念问题。目前解释的竞争法涉及消费者的经济劣势，当这些服务的用户不支付费用时，这一点并不明显。他们服务的用户不是他们的客户。这将是从他们那里购买广告的人，而Facebook和谷歌这两个虚拟巨头主宰着数字广告，对所有其他媒体和娱乐公司不利。
+
+
+```
+
+aphids n. 蚜虫(很少的虫)
+feed 喂养
+predatory 捕食性，掠夺性
+insects 昆虫
+spammers 垃圾
+
+```
+
+他们销售的产品是数据，我们这些用户为了数字巨头的利益，将我们的生活转化为数据。就像有些蚂蚁为了觅食时产生的蜜露而种植被称为蚜虫的虫子一样，谷歌也为了我们的数字生活所产生的数据而种植我们。Gmail让垃圾邮件发送者远离我们的收件箱。即使双方都从中受益，但这感觉不像是一种人类或民主关系。
+
+```
+mess up 弄乱，我理解的是 大量
+```
+
+B B/C D A D
+
 ##### 2月9日
 
 默写一遍英语大作文

@@ -6,6 +6,110 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+##### 2月13日
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 millions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, it it natural that it is 
+widely popular with idividuals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus , majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above, it is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+Text 4
+
+```
+
+combat 搏斗，格斗，战斗
+premium 保险费
+trap 陷阱
+
+```
+
+为了克服过度忙碌的陷阱，《深度工作：分心世界中专注成功的规则》一书的作者Cal Newport建议养成“深度工作”的习惯，即专注而不分心的能力。
+
+```
+
+seize n. 扣押, 没收 v.抓住，捉住
+dedicated v. 献身于
+
+```
+
+有许多方法可以掌握深度工作的艺术，无论是专门针对特定任务的长期具体任务；制定日常仪式；或者采取一种“新闻”的方法，在一天中尽可能抓住深入工作的时刻。无论哪种方法，关键是确定你的专注时间长度并坚持下去。
+
+```
+
+interruption n. 中断，打扰
+
+```
+
+纽波特还建议“深度调度”，以应对不断的中断，并在更短的时间内完成更多工作。“在任何时候，我都应该在大约下个月安排深入的工作。一旦被列入日程表，我会像对待医生的预约或重要会议一样保护这段时间”，他写道。
+
+```
+
+in particular 尤其，特别
+craft 手工，手艺
+
+```
+
+在更短的时间内完成更多任务的另一种方法是重新思考如何安排一天的优先级，特别是我们如何制定待办事项清单。蒂姆·哈福德（Tim Harford）是《混乱：混乱改变我们生活的力量》（Messy：The Power of Disorder to Transform Our Lives）一书的作者，他指出，20世纪80年代早期的一项研究将本科生分为两组：一些人被建议制定每月目标和学习活动；其他人被要求每天更详细地计划活动和目标。
+
+```
+
+structured 结构化的 v. 使形成体系，系统安排
+execution n. 执行，处决
+demotivate vi. 失去动力，使变得消极
+inevitable 不可避免的
+render v. 提供, 使成为，表达
+improvisation n. 即兴创作，～演奏
+reap 取得，收获
+
+```
+
+虽然研究人员认为，在执行任务时，结构良好的日常计划最有效，但他们错了：详细的日常计划会让学生失去动力。哈福德认为，不可避免的分心往往会使每天的待办事项清单失效，而在这样的清单中留出即兴发挥的空间可以获得最好的结果。
+
+```
+embrace v. 拥抱，欣然接受 n. 拥抱
+downtime 停工，休息
+```
+
+为了充分利用我们的注意力和精力，我们还需要拥抱休息，或者像纽波特建议的那样，“偷懒”。
+
+```
+vice 不好的习惯，邪恶
+indulgence n. 沉溺，放纵，，爱好
+indispensable adj. 不可或缺的 n. 不可缺少的人或物
+idleness 懈怠，懒散
+paradoxically 自相矛盾地
+
+```
+他认为：“懒惰不仅仅是一种度假、放纵或恶习；它对大脑的重要性就像维生素D对身体的重要性一样……（懒惰）是完成任何工作所必需的，这是自相矛盾的。”。
+
+```
+
+counter-intuitive 反直觉的，与正常预期相反的
+
+```
+
+哈佛医学院精神病学助理教授斯里尼·皮莱（Srini Pillay）认为，休息时间和生产力之间的这种反直觉联系可能是由于我们的大脑运作方式。当我们的大脑在专注于任务和不专注于任务之间切换时，他们往往效率更高。
+
+```
+
+circuits 电路
+
+```
+
+
+“人们没有意识到的是，为了完成这些任务，他们需要使用大脑中的聚焦和非聚焦电路”。皮莱说。
+
+
+A  D  C/D C/B d/B
+
 ##### 2月10日
 
 默写一遍英语大作文

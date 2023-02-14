@@ -6,6 +6,147 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+##### 2月14日
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 millions in 2018, while the proportion of total epxress incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings benefit and huge convenience to our daily life, therefore, it is natural that it is widely popular with individuals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential given rise to this.
+
+On the basis of the discussion above, it is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-raching impact uponour to daily life.
+
+```
+
+
+Part B
+
+```
+
+links   联系
+
+```
+
+对话是一种联系，这意味着当你与一个新的人进行对话时，就会形成一种联系。在那之后，你的每一次对话都会加强这种联系。
+
+
+```
+
+cab driver 出租车司机
+security guard 保安人员
+
+```
+
+你每天都会遇到新的人：杂货店工人、出租车司机、上班的新人或门口的保安。简单地与他们开始对话就会形成一个链接。
+
+```
+
+strangers 陌生人
+
+```
+
+这里有五种简单的方法，你可以采取第一步，开始与陌生人交谈。
+
+
+```
+
+with all 尽管
+suppose 认为，推断，假设，假定，设想
+stuck 动不了，无法移动，卡住
+get it out 发泄出来
+
+```
+
+假设你和一个你不认识的人在一个房间里，你内心的某种东西说“我想和这个人谈谈”——这是我们所有人都会发生的事情。你想说的第一个字，但就是说不出来，感觉好像被卡住了。我知道这种感觉，我的建议是把它发泄出来。
+
+```
+
+Just think 你想一想，想象一下
+
+```
+
+想一想：可能发生的最坏情况是什么？他们不会和你说话？他们现在不跟你说话了！
+
+```
+flow 流，流动，持续生产
+
+```
+我真的相信，一旦你说出了第一个词，其他的一切都会顺理成章。所以，保持简单：“嗨”、“嗨”或“你好”——尽你所能调动所有的热情和精力，面带微笑，说“嗨”。
+
+```
+memorable 值得纪念的
+
+```
+
+这是我们所有人都面临的一个问题：你和你想交谈的人有有限的时间，你想让这次谈话令人难忘。
+
+```
+
+rut  刻板乏味的生活，车撤
+jolt 震动，唤醒，使觉醒
+
+```
+
+老实说，如果我们被困在“嗨”，“你好”，“你好吗?”和“发生什么事了?”，你就无法给谈话带来最初的震撼，从而让它令人难忘。
+
+```
+
+willing to 愿意，愿意去
+
+```
+
+所以不要害怕问更多的私人问题。相信我，如果你问，你会惊讶地发现人们愿意分享多少。
+
+```
+
+for the first time 第一次
+build 建筑，建立
+easier 容易
+all of a sudden 突然地，出乎意料地
+
+```
+当你第一次见到一个人时，努力找到你和那个人的共同点，这样你就可以从这一点开始建立对话。当你从那里开始谈话，然后向外移动时，你会突然发现谈话变得容易多了。
+
+```
+
+pouring 倾盆的
+multitask 多任务运行，同时做数件事情 
+
+```
+
+想象一下，你对某人倾吐心声，而他们只是在忙着打电话，如果你请求他们注意，你得到的回答是“我可以同时处理多个任务”。
+
+```
+
+wholeheartedly 完全同意
+
+```
+所以，当有人试图与你沟通时，只需全心全意地进行沟通。进行眼神交流。相信我，眼神交流是所有魔法发生的地方。当你进行眼神交流时，你可以感受到对话。
+
+```
+
+awkward adj. 令人尴尬的
+
+```
+
+你们都是在第一次见到那个人的时候开始谈话的，但过了一段时间，你们可能又见面了，并且忘记了他们的名字。这不是很尴尬吗！所以，记住你遇到的人或你交谈过的人的小细节；也许是他们去过的地方，他们想去的地方，喜欢的东西，讨厌的东西，无论你说什么。
+
+```
+
+automatically 自动地
+investor n. 投资者
+wellbeing 幸福，健康，安乐
+
+```
+
+当你记住这些事情时，你会自动成为他们幸福的投资者。所以他们觉得你有责任保持这种关系。
+
+就是这样。你可以用五种惊人的方式与几乎任何人交谈。每个人都是一本非常好的书，可以阅读，也可以与之交谈！
+
+A F E B D
+
 ##### 2月13日
 
 默写一遍英语大作文

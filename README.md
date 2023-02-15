@@ -6,6 +6,44 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+##### 2月15日
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 millions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies behind situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individuals in mounting numbers. In the next place, udoutedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour to daily life.
+
+
+```
+
+英语翻译
+
+```
+
+occupations n. 工作，职业，消遣
+ticks 勾选，标记号，打上勾
+and so 因此
+fiction novels 科幻小说
+passionately 热情地，激动地
+
+```
+
+一名五年级学生得到一份家庭作业，从职业列表中选择他未来的职业道路。他勾选“宇航员”，但很快将“科学家”添加到列表中，并将其选中。这个男孩相信，如果他读得足够多，他可以探索自己喜欢的职业道路。因此，他阅读了从百科全书到科幻小说的所有内容。他阅读如此热情，以至于他的父母不得不在饭桌上制定“禁止阅读政策”。
+
+```
+
+reference 参考，参照
+avenues 选择，途径，手段，大街，林荫道
+
+```
+那个男孩是比尔·盖茨，他甚至在成为世界上最成功的人之一后，还没有停止阅读。如今，他的阅读材料已经从科幻小说和参考书改变了：最近，他透露自己一年至少阅读50本非小说类书籍。盖茨之所以选择非小说类作品，是因为它们解释了世界是如何运作的。盖茨说：“每本书都开辟了新的知识途径。”。
+
+
 ##### 2月14日
 
 默写一遍英语大作文

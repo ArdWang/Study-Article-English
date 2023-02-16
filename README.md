@@ -6,6 +6,111 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+##### 2月16日
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the save period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individuals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour to daily life.
+
+
+```
+Part A
+
+Text 1
+
+```
+
+norms n. 常态，正常行为
+with 随着
+grasp 抓住，理解，领会
+in conjunction with 连同...; 与...一起
+emerges 出现，浮现，露出，暴露
+unlike 不同
+rather 相当的，在某种程度上，有点儿
+statements 说明；说法，表白，表态，声明
+appease 安抚，抚慰
+moral 道德
+
+```
+
+与悲伤、恐惧和愤怒等所谓的基本情绪不同，随着孩子对社会和道德规范的理解越来越深，内疚感会出现得更晚一些。孩子天生就不知道如何说“对不起”；相反，随着时间的推移，他们了解到，这样的声明会安抚父母和朋友，以及他们自己的良心。这就是为什么研究人员通常认为所谓的道德内疚，在适当的数量，是一件好事。
+
+
+```
+
+imagination n. 想象力，想象
+outdated 过时的
+revival 进步，振兴，复苏，再流行，重演
+jealousy 嫉妒，羡慕
+anger 愤怒，怒火，激怒
+
+```
+
+当然，在大众的想象中，内疚的名声仍然不好。这让人非常不舒服——这在情感上相当于穿了一件重石头的夹克。然而，这种理解已经过时了。弗吉尼亚大学的心理学研究人员Amrisha Vaish说:“现在有一种关于什么是内疚以及内疚可以扮演什么角色的复兴或重新思考。”他补充说，这种复兴是一种更大的认识的一部分，即情绪不是二元的——在一种情况下有利的感觉可能在另一种情况下有害。例如，嫉妒和愤怒可能已经演变成提醒我们注意重要的不平等。太多的快乐可能是毁灭性的。
+
+```
+
+prompting 促进
+relationships 关系，联系
+species 种，物种
+
+```
+
+而内疚，通过促使我们更深入地思考自己的善良，可以鼓励人类弥补错误，修复关系。换句话说，内疚可以帮助一个合作物种团结在一起。这是一种社会粘合剂。
+
+```
+
+view 观看
+Viewed in this light 从一个角度看
+compensate vt. 补偿，抵消，弥补
+deficiency n. 缺乏，缺少，不足，缺点，缺陷
+represent 代表，表示，代理，代表出席，象征
+pathways n. 途径
+rein v. 控制， 驾驭，勒住 n. 控制
+nastier adj. 更糟的, 极差的
+impulses n. 凭冲动行事
+sympathy n. 同情心, 赞同
+substitute for 取代，替代
+versa 反之亦然
+
+```
+
+从这个角度来看，内疚是一个机会。多伦多大学心理学教授蒂娜·马尔蒂（Tina Malti）的研究表明，内疚感可以弥补情感缺陷。在许多研究中，马尔蒂和其他人已经表明，内疚和同情可能代表着不同的合作和分享途径。反之亦然：高同情可以代替低内疚。
+
+```
+
+looked at 观察，考虑，看
+assessments n. 看法，评估，评定，核定，判定
+caregiver n. 照顾者, 护理者
+tendency 趋势，趋向
+transgressions 违法，违反
+rated 评估，评分，看好，评价
+anonymous 随机的，匿名的，不公开的
+inclined 想， 有...倾向，很有可能，倾向于同意
+appeared 显得，看来，似乎，出现
+deprivation n. 剥夺，废止，缺乏
+guilt-prone 容易内疚，容易犯罪
+
+```
+
+例如，在2014年的一项研究中，Malti观察了244名儿童。通过对照顾者的评估和孩子们的自我观察，她对每个孩子的总体同情水平以及他们在道德违规后产生负面情绪的倾向进行了评估。然后，孩子们被递给巧克力硬币，并有机会与一个匿名的孩子分享。对于同情度低的孩子来说，他们分享多少似乎取决于他们有多容易感到内疚。有负罪感倾向的孩子分享得更多，尽管他们并没有神奇地对另一个孩子的匮乏感同身受。
+
+
+```
+prosocial 亲近社会
+regret 遗憾
+
+```
+“这是个好消息，”马尔蒂说。“我们可以亲近社会，因为我们造成了伤害，我们感到遗憾。”
+
+A/D    C   A  C  A
+
 ##### 2月15日
 
 默写一遍英语大作文

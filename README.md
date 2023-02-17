@@ -6,7 +6,120 @@ this is Study Article English
 #### 新年新的学习方式
 
 
-##### 2月16日
+##### 2月17日
+
+默写英语一遍大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020.
+To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that it bring great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with indivivduals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+
+```
+
+Text 2
+
+```
+
+one of  ...之一
+quiet 轻声的，轻柔的
+soak up 吸收，沉浸于，充分体验
+absorb 吸收，同化
+count on 依靠，预计，期望，依赖
+hastening v. 加速, 急速进行，赶紧说，促进，使加快
+leave 离开
+emit 发出，射出，散发
+
+```
+
+森林给我们提供了阴凉、安静的环境，也是应对气候变化的挑战之一。即使我们人类依靠森林吸收大量的二氧化碳，我们也在威胁着他们的能力。我们正在加速的气候变化可能有一天会给我们留下碳排放量超过吸收量的森林。
+
+```
+
+subtle    adj. 不易察觉的，不明显的
+strike v. 罢工，撞击 adj. 惊人的
+sink v. 下沉，下陷，沉没
+leading 主要的，最重要的，一流的，领先的，最前的
+figuring 是重要部分，是...部分，认为，认定
+
+```
+
+值得庆幸的是，有一种方法可以摆脱这个陷阱，但它需要一个微妙的平衡。在未来很长一段时间里，帮助森林作为有价值的“碳汇”蓬勃发展，可能需要降低它们现在吸收碳的能力。
+
+```
+
+thin out 变稀疏，砍伐
+temporarily adv. 暂时，临时
+draw 画， 吸收，绘画，拖，拉
+remain 保持，剩下，剩余，余留
+moisture n. 潮湿, 水分，水汽，潮气
+fend off 挡开，避开，挡住，抵挡
+insects 昆虫
+rendered 提供
+burnable adj. 可燃烧的  n. 可燃物
+
+```
+
+该州提出的“森林碳计划”旨在加倍努力，在森林部分地区砍伐幼树和清除灌木丛。这会暂时降低碳承载能力。但剩余的树木吸收了更多的可用水分，因此它们生长并茁壮成长，恢复了森林从空气中吸收碳的能力。健康的树木也能更好地抵御昆虫。大范围的面积不易燃烧。即使发生火灾，树木受影响也会减少。
+
+
+```
+
+urgent 紧迫
+drought 干旱，旱灾，久旱
+
+```
+
+这种规划的需要日益迫切。自2010年以来，干旱和昆虫已经在加州杀死了超过1亿棵树木，其中大部分仅在2016年，野火已经烧毁了数十万英亩。
+
+```
+
+emissions-permit 排放许可证
+acreage 面积，大块土地，英亩数
+
+```
+
+加利福尼亚州计划到2020年每年治理3.5万英亩森林，到2030年治理6万英亩森林——资金来自该州的排放许可拍卖所得。这只占可受益总面积的一小部分，总共约50万英亩，因此，优先考虑火灾或干旱风险最大的地区至关重要。
+
+```
+
+lumber n. 木材，废旧家去，不用的大件物品 v. 缓慢吃力地移动
+solid 固体，立体图形， adj. 坚固的，固体的，坚硬的
+strategy 策略
+burned 燃烧，着火，烧着
+biofuel 生物燃料
+
+```
+
+该战略还旨在确保从森林中移除的木质材料中的碳以固体木材的形式被封存，或作为生物燃料在原本使用化石燃料的车辆中燃烧。关于运输生物燃料的新研究已经在进行中。
+
+```
+
+accustomed adv. 习惯的, 习惯于 v. 使适应
+recreation n. 娱乐，消遣，娱乐活动，游戏
+serve as 用作，充当
+governor 统治者，州长
+
+```
+
+州政府很习惯于管理森林，但传统上他们关注野生动物、流域和娱乐机会。直到最近，他们才认识到森林在储存碳方面所起的重要作用。加州的计划预计将于明年由州长最终确定，该计划应作为一个典范。
+
+```
+
+preserve 保护
+endeavors 努力
+density 密度
+
+```
+
+A   A   C   B  B/D
+
+##### 2月16日  9:40分
 
 默写一遍英语大作文
 

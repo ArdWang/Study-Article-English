@@ -6,6 +6,103 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+##### 2月20日
+
+默写英语一遍大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramaric a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individuals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+Text 3
+
+```
+
+several 几个，数个，一些 adj. 各自的，分别的，专有的，独占的
+overhaul 检修，大修，改造，彻底检修，赶上，超过
+
+```
+
+几年来，美国农民一直抱怨劳动力短缺。如果不彻底改革针对农场工人的移民规则，这些抱怨不太可能停止。
+
+
+```
+
+obstructed v. 阻挡，阻塞，遮断，妨碍，阻扰，阻碍
+losers 失败者
+
+```
+
+国会阻碍了为农业工人创建更直接的签证的努力，该签证将允许外国工人在美国停留更长时间，并在行业内更换工作。如果这种情况不改变，美国企业、社区和消费者将成为输家。
+
+```
+
+undocumented 无正式文件的，无事实证明的
+workforce 劳动力，全体员工，劳动人口
+predominantly adv. 主要地，多数情况下
+settled 稳定的，不大可能变动的
+aging 变老，变旧，老化
+oft-debated 经常争论的
+cure 治愈，治好，解决，改正
+impausiable 似乎不合情理的，不像真实的
+
+```
+
+也许一半的美国农场工人是无证移民。随着越来越少的此类工人进入该国，农业劳动力的特征正在发生变化。他们也在老化。在本世纪初，大约三分之一的农作物工人年龄超过35岁。现在超过一半的人是。采摘农作物对老年人来说很困难。解决劳动力短缺的一个经常被争论的办法仍然像过去一样令人难以置信：美国本土工人不会回到农场。
+
+```
+
+mechanization n. 机械化
+small 小的，小号的
+
+```
+
+机械化不是答案，至少目前还不是。玉米、棉花、大米、大豆和小麦的生产基本上已经机械化，但许多高价值、劳动密集型作物，如草莓，需要劳动力。即使是奶牛场，机器人只负责一小部分挤奶，在实现自动化之前还有很长的路要走。
+
+```
+
+reliant adj. 依靠的，依赖性的
+as a result 因此
+
+```
+因此，农场越来越依赖使用H-2A签证的临时客工来填补劳动力缺口。从2012年左右开始，申请签证的人数急剧增加；从2011年到2016年，签发的签证数量增加了一倍多。
+
+```
+
+numerical 数字的
+cap 最高限额
+even so 尽管如此
+cumbersome adj. 大而笨重的，累赘的，难以携带的
+raid 突袭，突击
+remove 去掉，移开，拿开 n. 距离，差距，间距
+
+```
+
+H-2A签证没有数字上限，与非农业工作的H-2B签证不同，H-2B签证每年限额为66000人。尽管如此，雇主抱怨他们没有得到他们所需要的所有工人。该过程繁琐、昂贵且不可靠。一项调查发现，官僚主义的拖延导致H-2A员工平均迟到22天。联邦移民突击搜查令劳动力短缺问题更加严重，一些工人被驱逐，另一些工人被迫转入地下。
+
+
+```
+
+raisin 葡萄干
+growers 种植着，栽培者
+operations 行动，活动
+
+```
+
+在2012年的一项调查中，71%的树果种植者和近80%的葡萄干和浆果种植者表示他们缺乏劳动力。一些西方农民的反应是将业务转移到墨西哥。从1998年到2000年，美国人消费的水果中有14.5%是进口的。十多年后，进口份额为25.8%。
+
+实际上，美国可以进口食品，也可以进口采摘食品的工人。
+
+grant 批准，同意，允许，承认
+
+C   D  B  B/A   A/B
+
 ##### 2月17日
 
 默写英语一遍大作文

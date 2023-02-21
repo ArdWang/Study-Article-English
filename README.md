@@ -6,13 +6,127 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+##### 2月21日
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+What lies behind this situation concerning it? In first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is  widely popular with individuals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+```
+
+
+Text 4
+
+```
+
+plastic 塑料
+beat 击败，赢
+crisis 危机
+starring 主演，担任主角
+single-use plastic staples  一次性的订书订
+staples 订书钉
+celebrity 名人
+a bunch of 一束，一群
+swap out 更换
+
+```
+
+阿诺德·施瓦辛格、迪亚·米尔扎和阿德里安·格雷尼尔给你一个信息：打败塑料很容易。他们是一群名人的一部分，他们为世界环境日拍摄了一段新视频，鼓励消费者更换一次性塑料订书钉，以应对塑料危机。
+
+```
+
+enact 颁布
+legislation 法律
+curb vt. 遏制，控制
+call for 需要，呼吁
+overarching 首要的，非常重要的
+
+```
+
+世界环境日的主要信息包括呼吁各国政府立法限制一次性塑料。但总体信息是针对个人的。
+
+```
+
+achieved 达到，完成，成功
+concern n. 关心，涉及，影响
+sense  认知，感觉
+straws 吸管
+quitting 离开，离任，停止，戒掉
+eases 容易，轻易，不费劲，舒适，安逸
+harmful 有害的
+progressing 进步，改正
+in change 主管，全面负责，统领
+
+```
+
+然而，我担心的是，我们对需要实现的目标的认识有限。例如，就他们自己而言，把我们自己的袋子带到杂货店或放弃塑料吸管，只会起到很小的作用，对我们的要求也很低。它们甚至可能是有害的，满足了“尽自己的一份力”的需要，而从未采取更大、更大胆、更有效的行动——这是一种“道德许可”，可以减轻我们的担忧，阻止我们做更多的事，并要求更多的负责人。
+
+
+```
+sustainably  可持续，可持续地
+centered 集中，把...聚集在
+remain 仍是，保持不变
+
+```
+
+尽管围绕我们的环境和我们对环境的责任的讨论仍然集中在购物袋和吸管上，但我们忽视了力量的平衡，这意味着作为“消费者”，我们必须以可持续的方式购物，而不是作为“公民”，要求我们的政府和行业承担责任，以推动真正的系统变革。
+
+
+```
+structural 结构的，结构上的
+
+```
+
+重要的是要认识到，环境不是每个人的优先事项，甚至不是大多数人的优先。我们不应该期望会这样。伊丽莎白·R·德索姆布雷（Elizabeth R.DeSombre）在其最新著作《为什么好人做坏环境的事》（Why Good People Do Bad Environmental Things）中认为，集体改变大量人行为的最佳方式是结构性改变。
+
+```
+
+problematic 成问题的，造成困难的，疑难的
+implemente 使生效，执行，实施
+altogether 总共，总之，完全，全部，一共，总而言之，整个
+eliminate 消灭
+incentive-based 激励机制
+
+```
+
+这可能意味着实施塑料税等政策，增加环境问题行动的成本，或完全禁止一次性塑料。印度刚刚宣布，将“到2022年消除该国所有一次性塑料”。还有一些基于激励的方法可以让更好的环境选择更容易，比如确保回收至少和垃圾处理一样容易。
+
+```
+
+caring 乐于助人的， 关心他人的
+
+```
+
+德索布雷并不是说人们应该停止关心环境。她说，只是个人行动太慢了，这不是改变普遍行为的唯一方法，甚至不是主要方法。
+
+
+```
+
+perspective 态度，观点，思考方法，客观判断力
+progressive 进步的，先进的，开明的，稳步的，逐步的
+shape 形状，特有形状，外形，样子
+
+
+```
+
+这一切都不是要抹杀个人，这只是把事情放在正确的角度。我们没有太多时间等待了。我们需要形成集体行动的进步政策，以及参与变革的公民
+
+
+B   A/B   d  A/D（题目中出现了结构变化，由此可以推出，自上而下的过程） b 
+
 ##### 2月20日
 
 默写英语一遍大作文
 
 ```java
 
-What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramaric a slow rise from approximately 5 billions less that 8 billions over the same period.
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
 
 What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individuals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
 

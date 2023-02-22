@@ -6,6 +6,181 @@ this is Study Article English
 #### 新年新的学习方式
 
 
+##### 2月22日
+
+默写一遍英语大作文
+
+```java
+
+What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
+
+
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is widely popular with individuals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, this, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+
+On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
+
+
+```
+
+Part B.
+
+```
+
+seriously   认真地
+
+```
+
+在找房子的时候，父母应该多认真地考虑孩子的意见?
+
+在选择新家时，卡米尔·麦克莱恩的孩子有一个单一的要求：后院。
+
+```
+
+estate n. 大片私有土地
+decisions n. 决定，决议
+real estate 房地产，不动产，房地产业
+cases 情况
+weigh heavily 重大的, 对...有很大影响
+
+```
+
+根据2018年哈里斯民意调查（Harris Poll）对2000多名美国成年人的调查，麦克莱恩的孩子并不是唯一对住房有意见的孩子，在很多情况下，年轻人的意见对父母的房地产决定影响很大。
+
+```
+
+buck   n. 责任，过失， v. 反抗， adj. 雄的
+proclivity  n. 倾向性，癖好
+realty n. 不动产 房地产
+mixed views 不同观点
+
+```
+
+尽管越来越多的家庭反对老一辈的倾向，让孩子们对房地产决策一无所知，但房地产经纪人和心理学家对孩子们的意见可能产生的财务、个人和长期影响有着不同的看法。
+
+```
+
+a sense of 感，的感觉，观念
+overwhelming 势不可挡的，压倒性的，巨大的，无法抗拒的
+clinical psychologist  临床心理师，临床心理学家
+great idea 极好的主意
+
+```
+
+芝加哥的临床心理学家Ryan Hooper说，让孩子们参与一个重大决定是一个好主意，因为这可以帮助他们在一个可能是压倒性的过程中感受到控制感和主人翁感。
+
+```
+
+difficult adj. 困难的，费力的，难做的，难解的
+significant 重要的，有重大意义的
+
+```
+
+他说:“孩子们在应对重大变动时可能会面临严重的困难，特别是如果他们离开了目前的学校或支持系统。”
+
+```
+
+convinced  坚信，深信，确信，坚信不不移的
+considered 考虑，adj. 经过慎重思考的
+regards 注视，当做，把...视为，看待
+
+```
+
+Gagliardo Realty Associates的房地产经纪人Greg Jaroszewski表示，他不相信孩子们应该参与选房，但如果可能的话，他们的意见应该考虑到与朋友的距离和社交活动。
+
+
+```
+
+attorney 律师，代理人
+in the matter 在这个问题上
+
+```
+
+纽约的一位真正的州律师亚当·贝利（Adam Bailey）表示，年幼的孩子应该觉得自己在选择自己的家，而实际上在这件事上没有选择权。
+
+
+```
+
+being 存在
+feel like 想要.....; 感到好似
+
+```
+
+贝利说，询问他们对潜在住宅后院的喜好，会让他们觉得自己被纳入了决策过程。
+
+```
+
+consideration 考虑，深思，必须考虑的事
+ruin vt. 破坏, 毁坏，毁灭，糟蹋 n. 毁坏，破坏
+too much 太多，过分
+fantastic 好极了，极好的，了不起的，很大的
+
+```
+
+克拉利夫圣克拉拉塔的房地产经纪人特雷斯·汉普森（Trace Hampson）表示，购房的许多方面都不考虑孩子。过分强调他们的意见会毁了一次美妙的购房。
+
+```
+
+wise 明智的，充满智慧的，英明的
+solely adv. 唯一地，单独地
+
+```
+
+汉普森说：“在你做出房地产决定之前和你的孩子谈谈是明智的，但我不会仅仅根据他们的意见来做出购买决定。”。
+
+另一个问题是，许多孩子——尤其是年龄较大的孩子——对房地产的了解可能是基于HGTV节目，加利福尼亚州里弗赛德市诺里斯集团的亚伦·诺里斯说。
+
+
+```
+
+consequences n. 后果，结果，重要性
+seriously  adv. 认真地，严重地，严肃的 
+shelter 避难所，居所，住处，遮蔽
+mindest 心态，观念模式，思维倾向
+
+```
+他们和我们其他人一样喜欢奇普和乔安娜·盖恩斯，”他说，“HGTV已经严重改变了人们对房地产的看法。这不是庇护所，而是一种生活方式。这种心态的改变带来了一些严重的金钱后果。"
+
+```
+
+tend to 倾向于，有助于
+get stuck in 起劲的干，下定决心做
+feathures 特征，特色
+
+```
+
+诺里斯说，孩子们往往会被这些功能和对他们个人的直接好处所困。
+
+```
+
+desire 愿望，欲望
+over time 随着时间的过去
+
+```
+
+FitSmallBusiness.com的房地产分析师朱莉·古尔纳（Julie Gurner）表示，父母需要提醒孩子，他们的需求和愿望可能会随着时间的推移而改变。
+
+```
+
+contingent on 视...而定，决定于
+customize 定制，订制，订做
+Harsh 严厉的，严酷的，恶劣的，残酷的，艰苦的，强烈的
+
+```
+
+“他们的意见明天可能会改变，”古尔纳说。虽然这么说可能很苛刻，但这个决定不应该取决于孩子的意见，而是应该为他们做决定，仔细考虑什么样的房子最能满足他们的需求，并给他们一个机会来定制它，让它成为他们自己的。”
+
+```
+
+relevant adj. 相关的,切题的，有价值的，有意义的
+embrace v. 拥抱 n. 怀抱
+crunch adj. 至关重要的
+
+```
+
+这一建议现在比以往任何时候都更加重要，尽管目前住房紧张，但更多的父母希望接受孩子的想法。
+
+A/D  E/G  F C B
+
 ##### 2月21日
 
 默写一遍英语大作文
@@ -14,7 +189,7 @@ this is Study Article English
 
 What is demonstrated in the chart illustrates clearly that some remarkable change with regard to China rural express and total express has taken place during the period between 2018 to 2020. To be specific, the proportion of rural express jumped up to amazing 3 billions in 2020 from roughly 1.5 billions in 2018, while the proportion of total express incress witnessed dramatic a slow rise from approximately 5 billions less that 8 billions over the same period.
 
-What lies behind this situation concerning it? In first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is  widely popular with individuals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
+What lies behind this situation concerning it? In the first place, it is generally accepted that it brings great benefits and huge convenience to our daily life, therefore, it is natural that it is  widely popular with individuals in mounting numbers. In the next place, undoubtedly, this way can save a lot of time and money for us, thus, majorities of people would award priority to choosing this new mode. There if one more point I feel I should touch on. It seems that its fashion has the potential to given rise to this.
 
 On the basis of the discussion above. It is my strong believe that this phenomenon mirrored by the chart is bound to exist for some years to come. Although we are not sure what will come of this trend, at least it will have a great and far-reaching impact uponour daily life.
 
